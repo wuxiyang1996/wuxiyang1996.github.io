@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zexiao Li | Xiyang Wu</title>
-    <link>/wuxiyang1996.github.io/author/zexiao-li/</link>
-      <atom:link href="/wuxiyang1996.github.io/author/zexiao-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wuxiyang1996.github.io/author/zexiao-li/</link>
+      <atom:link href="https://wuxiyang1996.github.io/author/zexiao-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Zexiao Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 05 Sep 2020 16:23:35 -0700</lastBuildDate>
     <image>
-      <url>/wuxiyang1996.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://wuxiyang1996.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Zexiao Li</title>
-      <link>/wuxiyang1996.github.io/author/zexiao-li/</link>
+      <link>https://wuxiyang1996.github.io/author/zexiao-li/</link>
     </image>
     
     <item>
       <title>Online defects detection method for gearboxcover based on the four-source photometric stereo method</title>
-      <link>/wuxiyang1996.github.io/publication/liu-2020/</link>
+      <link>https://wuxiyang1996.github.io/publication/liu-2020/</link>
       <pubDate>Sat, 05 Sep 2020 16:23:35 -0700</pubDate>
-      <guid>/wuxiyang1996.github.io/publication/liu-2020/</guid>
+      <guid>https://wuxiyang1996.github.io/publication/liu-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online Component Scratch Inspection System Based on the Photometric Stereo Method</title>
-      <link>/wuxiyang1996.github.io/project/photometric/</link>
+      <link>https://wuxiyang1996.github.io/project/photometric/</link>
       <pubDate>Thu, 15 Aug 2019 20:38:33 -0700</pubDate>
-      <guid>/wuxiyang1996.github.io/project/photometric/</guid>
+      <guid>https://wuxiyang1996.github.io/project/photometric/</guid>
       <description>&lt;p&gt;This project intends to realize the online scratch inspection tasks on the surface of the complex components. The deviation introduced by conveyer is compensated with shape template matching. The surface variation is reconstructed through photometric stereo method, which helps to extract the defect via local grayscale comparsion. My responsibily covers:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Survey frontiers of the automatic inspection system for complex components, investigate various scratch detection methods, design the online inspection system with the photometric stereo method&lt;/li&gt;

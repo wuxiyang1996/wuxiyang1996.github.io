@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kai Sun | Xiyang Wu</title>
-    <link>/wuxiyang1996.github.io/author/kai-sun/</link>
-      <atom:link href="/wuxiyang1996.github.io/author/kai-sun/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wuxiyang1996.github.io/author/kai-sun/</link>
+      <atom:link href="https://wuxiyang1996.github.io/author/kai-sun/index.xml" rel="self" type="application/rss+xml" />
     <description>Kai Sun</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Apr 2020 20:15:23 -0700</lastBuildDate>
     <image>
-      <url>/wuxiyang1996.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://wuxiyang1996.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Kai Sun</title>
-      <link>/wuxiyang1996.github.io/author/kai-sun/</link>
+      <link>https://wuxiyang1996.github.io/author/kai-sun/</link>
     </image>
     
     <item>
       <title>Fake News Detection Neural Network and LSTM</title>
-      <link>/wuxiyang1996.github.io/project/fake_news/</link>
+      <link>https://wuxiyang1996.github.io/project/fake_news/</link>
       <pubDate>Thu, 30 Apr 2020 20:15:23 -0700</pubDate>
-      <guid>/wuxiyang1996.github.io/project/fake_news/</guid>
+      <guid>https://wuxiyang1996.github.io/project/fake_news/</guid>
       <description>&lt;p&gt;Fake News Detection intends to implement the text classification method on the Kaggle fake new dataset and compare the performance of different methods. In this project, the text classification methods involve the supervised methods like SVM, Naive Bayes Classifier and XGBoost, unsupervised methods like KMeans and GMM, and deep learning methods like Neural Network and LSTM. My responsibility in this project covers:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Investigate the multiple text classification methods for the Kaggle Fake News dataset, pre-process the dataset with Doc2Vec method&lt;/li&gt;
