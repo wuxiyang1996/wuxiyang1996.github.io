@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esmaeil Seraj | Xiyang Wu</title>
+    <link>/author/esmaeil-seraj/</link>
+      <atom:link href="/author/esmaeil-seraj/index.xml" rel="self" type="application/rss+xml" />
+    <description>Esmaeil Seraj</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jul 2020 18:27:45 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Esmaeil Seraj</title>
+      <link>/author/esmaeil-seraj/</link>
+    </image>
+    
+    <item>
+      <title>FireCommander 2020 – Multi-agent Wildfire Pruning System based on Learning from Demonstration</title>
+      <link>/project/rl_2020/</link>
+      <pubDate>Thu, 30 Jul 2020 18:27:45 -0700</pubDate>
+      <guid>/project/rl_2020/</guid>
+      <description>&lt;p&gt;FireCommander 2020 is a project that intends to derive an optimal heterogenous multi-agent team control method via inverse reinforcement learning. The multi-agent control is based on the massive user data collected through online interactive platform and optimized with inverse reinforcement learning method. My responsibility in this project covers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Investigate the state-of-art of the reinforcement learning, learning from demonstration and multi-agent control, analyze the multi-agent control problem with the mathematical model like AEKF&lt;/li&gt;
+&lt;li&gt;Design the simulation environment for the multi-agent firefighting tasks with PyGame based on the real environment setting, fire propagation model, agent kinematics and control mode, established the user-interface with PyQt5, design the data storage and animation reconstruction method&lt;/li&gt;
+&lt;li&gt;Implement the reward function based on the relative importance of target, designed various scenarios to deal with real-world circumstances, set up the online platform for massive user data collection, processed the data acquired&lt;/li&gt;
+&lt;li&gt;Design and optimize the multi-agent firefighting control method based on the multi-agent learning from demonstration algorithm and user data collected&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

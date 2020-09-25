@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Xiyang Wu</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jul 2020 18:27:45 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>FireCommander 2020 – Multi-agent Wildfire Pruning System based on Learning from Demonstration</title>
+      <link>/project/rl_2020/</link>
+      <pubDate>Thu, 30 Jul 2020 18:27:45 -0700</pubDate>
+      <guid>/project/rl_2020/</guid>
+      <description>&lt;p&gt;FireCommander 2020 is a project that intends to derive an optimal heterogenous multi-agent team control method via inverse reinforcement learning. The multi-agent control is based on the massive user data collected through online interactive platform and optimized with inverse reinforcement learning method. My responsibility in this project covers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Investigate the state-of-art of the reinforcement learning, learning from demonstration and multi-agent control, analyze the multi-agent control problem with the mathematical model like AEKF&lt;/li&gt;
+&lt;li&gt;Design the simulation environment for the multi-agent firefighting tasks with PyGame based on the real environment setting, fire propagation model, agent kinematics and control mode, established the user-interface with PyQt5, design the data storage and animation reconstruction method&lt;/li&gt;
+&lt;li&gt;Implement the reward function based on the relative importance of target, designed various scenarios to deal with real-world circumstances, set up the online platform for massive user data collection, processed the data acquired&lt;/li&gt;
+&lt;li&gt;Design and optimize the multi-agent firefighting control method based on the multi-agent learning from demonstration algorithm and user data collected&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fake News Detection Neural Network and LSTM</title>
+      <link>/project/fake_news/</link>
+      <pubDate>Thu, 30 Apr 2020 20:15:23 -0700</pubDate>
+      <guid>/project/fake_news/</guid>
+      <description>&lt;p&gt;Fake News Detection intends to implement the text classification method on the Kaggle fake new dataset and compare the performance of different methods. In this project, the text classification methods involve the supervised methods like SVM, Naive Bayes Classifier and XGBoost, unsupervised methods like KMeans and GMM, and deep learning methods like Neural Network and LSTM. My responsibility in this project covers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Investigate the multiple text classification methods for the Kaggle Fake News dataset, pre-process the dataset with Doc2Vec method&lt;/li&gt;
+&lt;li&gt;Design the basic news classifier with unsupervised methods like K-Means and supervised methods like SVM, implement the deep learning based method like the Neural Network, CNN and LSTM on the same dataset, optimize the classification model and visualize the classification result&lt;/li&gt;
+&lt;li&gt;Summarize the experiment result by analyzing and comparing the classification accuracy for the traditional and deep learning methods, write the final report collaboratively&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Content-Weighted Autoencoder for Image Compression</title>
+      <link>/project/feature_map/</link>
+      <pubDate>Sun, 15 Dec 2019 20:37:54 -0700</pubDate>
+      <guid>/project/feature_map/</guid>
+      <description>&lt;p&gt;This project presents a novel neural networkstructure for image compression tasks. The network structure utilizes the ResNet autoencoder for the encoder and decoder part, and incorporates the importance map to enhance the details in the image. The result shows that the compression performance of the convolutional autoencoder with the importance map is superior to the traditional 3-layer convolutional autoencoder and the ResNet autoencoder without the importance map under multiple image compression quality metrics. My responsibility in this project covers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Investigate the frontiers of lossy image compression and super-resolution with deep learning methods&lt;/li&gt;
+&lt;li&gt;Design the content-weighted autoencoder and the content-weighted importance map and the quantization layer that enhances the important features within the images by deeply compressing the background,&lt;/li&gt;
+&lt;li&gt;Compare the performance of the content-weighted autoencoder with the four-layer CNN and ResNet autoencoder without quantization layer using the same encoding size with multiple experiments&lt;/li&gt;
+&lt;li&gt;Verify its superior performance in maintaining the high reconstruction quality with low bpp rate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BuzzCup - Multi-agent Motion Simulator based on PID, OpenGL and MPI</title>
+      <link>/project/buzzcup/</link>
+      <pubDate>Tue, 03 Dec 2019 20:38:10 -0700</pubDate>
+      <guid>/project/buzzcup/</guid>
+      <description>&lt;p&gt;Buzzcup intends to simulate the PID control on the circluar motion of multiple agents. The environment is based on the OpenGL and each agent is controlled by a independent thread that communicates via MPI. My responsibily in this project covers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Investigate the multi-thread programming tool for C++, designed the multi-agent control system with MPI to ensure all the agents are controlled by an independent thread&lt;/li&gt;
+&lt;li&gt;Implement the PID control method based on the agent’s distance to the sphere center to stabilize the agent’s trajectory during its transferring process and rotating on the sphere&lt;/li&gt;
+&lt;li&gt;Visualize the simulation environment with 3-D computer graphics package OpenGL, presented the playground, intended sphere for surrounding and agents with their trajectory during the simulation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The OpenGL based Chess</title>
+      <link>/project/chess/</link>
+      <pubDate>Mon, 25 Nov 2019 20:38:15 -0700</pubDate>
+      <guid>/project/chess/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;This project intends to design the 3D chess with OpenGL.The enviroment setting could be changed by the user, like lifting up or down the view point, rotating the chessboard, moving the pieces and switching the model between detailed and simplified ones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online Component Scratch Inspection System Based on the Photometric Stereo Method</title>
+      <link>/project/photometric/</link>
+      <pubDate>Thu, 15 Aug 2019 20:38:33 -0700</pubDate>
+      <guid>/project/photometric/</guid>
+      <description>&lt;p&gt;This project intends to realize the online scratch inspection tasks on the surface of the complex components. The deviation introduced by conveyer is compensated with shape template matching. The surface variation is reconstructed through photometric stereo method, which helps to extract the defect via local grayscale comparsion. My responsibily covers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Survey frontiers of the automatic inspection system for complex components, investigate various scratch detection methods, design the online inspection system with the photometric stereo method&lt;/li&gt;
+&lt;li&gt;Coordinate the images in the online inspection environment by shape matching to compensate for the spatial deviation between proximate images, generated and implemented the region template to extract the inspection region at each inspection location&lt;/li&gt;
+&lt;li&gt;Generate the curvature image with the photometric stereo method that presents the surface contour in grayscale, detect scratches on the component’s surface with image morphology method&lt;/li&gt;
+&lt;li&gt;Summarize and present the investigation result in the undergraduate thesis and the paper Online defects detection method for gearboxcover based on the four-source photometric stereo method&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design and Simulation of a 5-DOF Writing Manipulator</title>
+      <link>/project/manipulator/</link>
+      <pubDate>Sun, 10 Dec 2017 20:38:51 -0700</pubDate>
+      <guid>/project/manipulator/</guid>
+      <description>&lt;p&gt;This project intends to implement the character writing task on an unknown 5-DOF manipulator. The purpose incorporates the analysis of the kinematic and dynamic feature of the manipulator, the mechanical model design and FEA, trajectory planning and basic manipulator control. My responsibily in this project covers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Establish the connecting rod model of the manipulator according to standard D-H Representation, derive its kinematics expression&lt;/li&gt;
+&lt;li&gt;Research on trajectory planning methods in joint and Cartesian space, design the trajectory of the actuator, gain the variation of each joint’s outcome during their entire working process with MATLAB Robotic Toolbox, and complete the static analysis of the manipulator&lt;/li&gt;
+&lt;li&gt;Build up the 3-D model of the manipulator in SOLIDWORKS, obtain the strain distribution throughout the manipulator under different external forces through finite element analysis, and manage the manipulator’s dynamic analysis with ADAMS&lt;/li&gt;
+&lt;li&gt;Established the steering gear mathematical model, design the control and communication system between manipulator and laptop by using LabVIEW and Arduino&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
