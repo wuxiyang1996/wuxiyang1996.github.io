@@ -44,6 +44,18 @@
     </item>
     
     <item>
+      <title>Flying Object Capture via Pincher Manipulator</title>
+      <link>https://wuxiyang1996.github.io/project/gtsam_manipulator/</link>
+      <pubDate>Tue, 21 Apr 2020 10:20:38 -0700</pubDate>
+      <guid>https://wuxiyang1996.github.io/project/gtsam_manipulator/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;This project intends to plan the trajectory for the Pincher manipulator to capture the flying object with the robotic arm. The mathematical analysis for the manipulator kinematics and dynamics during the capturing task is proposed and veriflied with the MATLAB Robotics Toolbox and GTSAM. The feasiblity of the trajectory plan is verified within several scenarios.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Content-Weighted Autoencoder for Image Compression</title>
       <link>https://wuxiyang1996.github.io/project/feature_map/</link>
       <pubDate>Sun, 15 Dec 2019 20:37:54 -0700</pubDate>
