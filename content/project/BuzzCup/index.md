@@ -9,7 +9,7 @@ categories: []
 date: 2019-12-03T20:38:10-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.youtube.com/watch?v=bjaHEkHu6TA"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
