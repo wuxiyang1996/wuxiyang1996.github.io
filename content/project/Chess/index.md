@@ -27,10 +27,10 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/wuxiyang1996/6122-Advanced-Programing/tree/master/Chessboard"
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://studio.youtube.com/video/bzfPp8PH2g4/edit/basic"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
