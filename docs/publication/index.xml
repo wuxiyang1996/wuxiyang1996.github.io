@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Xiyang Wu</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>/wuxiyang1996.github.io/publication/</link>
+      <atom:link href="/wuxiyang1996.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 05 Sep 2020 16:23:35 -0700</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/wuxiyang1996.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>/wuxiyang1996.github.io/publication/</link>
     </image>
     
     <item>
       <title>Online defects detection method for gearboxcover based on the four-source photometric stereo method</title>
-      <link>/publication/liu-2020/</link>
+      <link>/wuxiyang1996.github.io/publication/liu-2020/</link>
       <pubDate>Sat, 05 Sep 2020 16:23:35 -0700</pubDate>
-      <guid>/publication/liu-2020/</guid>
+      <guid>/wuxiyang1996.github.io/publication/liu-2020/</guid>
       <description></description>
     </item>
     

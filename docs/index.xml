@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiyang Wu</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>/wuxiyang1996.github.io/</link>
+      <atom:link href="/wuxiyang1996.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiyang Wu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 05 Sep 2020 16:23:35 -0700</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/wuxiyang1996.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Xiyang Wu</title>
-      <link>/</link>
+      <link>/wuxiyang1996.github.io/</link>
     </image>
     
     <item>
       <title>Online defects detection method for gearboxcover based on the four-source photometric stereo method</title>
-      <link>/publication/liu-2020/</link>
+      <link>/wuxiyang1996.github.io/publication/liu-2020/</link>
       <pubDate>Sat, 05 Sep 2020 16:23:35 -0700</pubDate>
-      <guid>/publication/liu-2020/</guid>
+      <guid>/wuxiyang1996.github.io/publication/liu-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FireCommander 2020 – Multi-agent Wildfire Pruning System based on Learning from Demonstration</title>
-      <link>/project/rl_2020/</link>
+      <link>/wuxiyang1996.github.io/project/rl_2020/</link>
       <pubDate>Thu, 30 Jul 2020 18:27:45 -0700</pubDate>
-      <guid>/project/rl_2020/</guid>
+      <guid>/wuxiyang1996.github.io/project/rl_2020/</guid>
       <description>&lt;p&gt;FireCommander 2020 is a project that intends to derive an optimal heterogenous multi-agent team control method via inverse reinforcement learning. The multi-agent control is based on the massive user data collected through online interactive platform and optimized with inverse reinforcement learning method. My responsibility in this project covers:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Investigate the state-of-art of the reinforcement learning, learning from demonstration and multi-agent control, analyze the multi-agent control problem with the mathematical model like AEKF&lt;/li&gt;
@@ -38,9 +38,9 @@
     
     <item>
       <title>Fake News Detection Neural Network and LSTM</title>
-      <link>/project/fake_news/</link>
+      <link>/wuxiyang1996.github.io/project/fake_news/</link>
       <pubDate>Thu, 30 Apr 2020 20:15:23 -0700</pubDate>
-      <guid>/project/fake_news/</guid>
+      <guid>/wuxiyang1996.github.io/project/fake_news/</guid>
       <description>&lt;p&gt;Fake News Detection intends to implement the text classification method on the Kaggle fake new dataset and compare the performance of different methods. In this project, the text classification methods involve the supervised methods like SVM, Naive Bayes Classifier and XGBoost, unsupervised methods like KMeans and GMM, and deep learning methods like Neural Network and LSTM. My responsibility in this project covers:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Investigate the multiple text classification methods for the Kaggle Fake News dataset, pre-process the dataset with Doc2Vec method&lt;/li&gt;
@@ -53,9 +53,9 @@
     
     <item>
       <title>Content-Weighted Autoencoder for Image Compression</title>
-      <link>/project/feature_map/</link>
+      <link>/wuxiyang1996.github.io/project/feature_map/</link>
       <pubDate>Sun, 15 Dec 2019 20:37:54 -0700</pubDate>
-      <guid>/project/feature_map/</guid>
+      <guid>/wuxiyang1996.github.io/project/feature_map/</guid>
       <description>&lt;p&gt;This project presents a novel neural networkstructure for image compression tasks. The network structure utilizes the ResNet autoencoder for the encoder and decoder part, and incorporates the importance map to enhance the details in the image. The result shows that the compression performance of the convolutional autoencoder with the importance map is superior to the traditional 3-layer convolutional autoencoder and the ResNet autoencoder without the importance map under multiple image compression quality metrics. My responsibility in this project covers:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Investigate the frontiers of lossy image compression and super-resolution with deep learning methods&lt;/li&gt;
@@ -69,9 +69,9 @@
     
     <item>
       <title>BuzzCup - Multi-agent Motion Simulator based on PID, OpenGL and MPI</title>
-      <link>/project/buzzcup/</link>
+      <link>/wuxiyang1996.github.io/project/buzzcup/</link>
       <pubDate>Tue, 03 Dec 2019 20:38:10 -0700</pubDate>
-      <guid>/project/buzzcup/</guid>
+      <guid>/wuxiyang1996.github.io/project/buzzcup/</guid>
       <description>&lt;p&gt;Buzzcup intends to simulate the PID control on the circluar motion of multiple agents. The environment is based on the OpenGL and each agent is controlled by a independent thread that communicates via MPI. My responsibily in this project covers:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Investigate the multi-thread programming tool for C++, designed the multi-agent control system with MPI to ensure all the agents are controlled by an independent thread&lt;/li&gt;
@@ -84,9 +84,9 @@
     
     <item>
       <title>The OpenGL based Chess</title>
-      <link>/project/chess/</link>
+      <link>/wuxiyang1996.github.io/project/chess/</link>
       <pubDate>Mon, 25 Nov 2019 20:38:15 -0700</pubDate>
-      <guid>/project/chess/</guid>
+      <guid>/wuxiyang1996.github.io/project/chess/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;This project intends to design the 3D chess with OpenGL.The enviroment setting could be changed by the user, like lifting up or down the view point, rotating the chessboard, moving the pieces and switching the model between detailed and simplified ones.&lt;/li&gt;
 &lt;/ul&gt;
@@ -96,9 +96,9 @@
     
     <item>
       <title>Online Component Scratch Inspection System Based on the Photometric Stereo Method</title>
-      <link>/project/photometric/</link>
+      <link>/wuxiyang1996.github.io/project/photometric/</link>
       <pubDate>Thu, 15 Aug 2019 20:38:33 -0700</pubDate>
-      <guid>/project/photometric/</guid>
+      <guid>/wuxiyang1996.github.io/project/photometric/</guid>
       <description>&lt;p&gt;This project intends to realize the online scratch inspection tasks on the surface of the complex components. The deviation introduced by conveyer is compensated with shape template matching. The surface variation is reconstructed through photometric stereo method, which helps to extract the defect via local grayscale comparsion. My responsibily covers:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Survey frontiers of the automatic inspection system for complex components, investigate various scratch detection methods, design the online inspection system with the photometric stereo method&lt;/li&gt;
@@ -112,9 +112,9 @@
     
     <item>
       <title>Design and Simulation of a 5-DOF Writing Manipulator</title>
-      <link>/project/manipulator/</link>
+      <link>/wuxiyang1996.github.io/project/manipulator/</link>
       <pubDate>Sun, 10 Dec 2017 20:38:51 -0700</pubDate>
-      <guid>/project/manipulator/</guid>
+      <guid>/wuxiyang1996.github.io/project/manipulator/</guid>
       <description>&lt;p&gt;This project intends to implement the character writing task on an unknown 5-DOF manipulator. The purpose incorporates the analysis of the kinematic and dynamic feature of the manipulator, the mechanical model design and FEA, trajectory planning and basic manipulator control. My responsibily in this project covers:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Establish the connecting rod model of the manipulator according to standard D-H Representation, derive its kinematics expression&lt;/li&gt;
