@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/wuxiyang1996/Mobile-Manipulator/"
-url_pdf: "https://github.com/wuxiyang1996/Mobile-Manipulator/blob/master/CS8803FinalReport_Xiyang_Wu.pdf"
+url_pdf: "project/gtsam_manipulator/CS8803FinalReport_Xiyang_Wu.pdf"
 url_slides: ""
 url_video: ""
 

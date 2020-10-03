@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/xwu391/6258-DIP/"
-url_pdf: "https://github.com/xwu391/6258-DIP/blob/master/ECE_6258_Final_Project_Xiyang_Wu.pdf"
+url_pdf: "project/feature_map/ECE_6258_Final_Project_Xiyang_Wu.pdf"
 url_slides: ""
 url_video: ""
 

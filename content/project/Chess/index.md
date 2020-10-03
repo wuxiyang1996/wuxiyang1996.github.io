@@ -39,5 +39,5 @@ url_video: "https://studio.youtube.com/video/bzfPp8PH2g4/edit/basic"
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
- * This project intends to design the 3D chess with OpenGL.The enviroment setting could be changed by the user, like lifting up or down the view point, rotating the chessboard, moving the pieces and switching the model between detailed and simplified ones.
+* This project intends to design the 3D chess with OpenGL.The enviroment setting could be changed by the user, like lifting up or down the view point, rotating the chessboard, moving the pieces and switching the model between detailed and simplified ones.
 ---

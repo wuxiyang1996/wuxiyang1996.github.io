@@ -29,7 +29,7 @@ image:
 
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "project/rl_2020/FireCommander2020_Xiyang_Wu.pdf"
 url_video: ""
 
 # Slides (optional).
