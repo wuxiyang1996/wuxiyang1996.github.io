@@ -28,8 +28,8 @@
       <description>&lt;p&gt;FireCommander 2020 is a project that intends to derive an optimal heterogenous multi-agent team control method via inverse reinforcement learning. The multi-agent control is based on the massive user data collected through online interactive platform and optimized with inverse reinforcement learning method. My responsibility in this project covers:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Investigate the state-of-art of the reinforcement learning, learning from demonstration and multi-agent control, analyze the multi-agent control problem with the mathematical model like AEKF&lt;/li&gt;
-&lt;li&gt;Design the simulation environment for the multi-agent firefighting tasks with PyGame based on the real environment setting, fire propagation model, agent kinematics and control mode, established the user-interface with PyQt5, design the data storage and animation reconstruction method&lt;/li&gt;
-&lt;li&gt;Implement the reward function based on the relative importance of target, designed various scenarios to deal with real-world circumstances, set up the online platform for massive user data collection, processed the data acquired&lt;/li&gt;
+&lt;li&gt;Design the simulation environment for the multi-agent firefighting tasks with PyGame based on the real environment setting, fire propagation model, agent kinematics and control mode, establish the user-interface with PyQt5, design the data storage and animation reconstruction method&lt;/li&gt;
+&lt;li&gt;Implement the reward function based on the hierarchy importance of target, designed various scenarios to deal with real-world circumstances, set up the online platform for massive user data collection, processed the data acquired&lt;/li&gt;
 &lt;li&gt;Design and optimize the multi-agent firefighting control method based on the multi-agent learning from demonstration algorithm and user data collected&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -72,23 +72,12 @@
       <link>https://wuxiyang1996.github.io/project/buzzcup/</link>
       <pubDate>Tue, 03 Dec 2019 20:38:10 -0700</pubDate>
       <guid>https://wuxiyang1996.github.io/project/buzzcup/</guid>
-      <description>&lt;p&gt;Buzzcup intends to simulate the PID control on the circluar motion of multiple agents. The environment is based on the OpenGL and each agent is controlled by a independent thread that communicates via MPI. My responsibily in this project covers:&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./BuzzCup.gif&#34; title=&#34;BuzzCup&#34; width=&#34;600&#34; height=&#34;300&#34; /&gt;
+Buzzcup intends to simulate the PID control on the circluar motion of multiple agents. The environment is based on the OpenGL and each agent is controlled by a independent thread that communicates via MPI. My responsibily in this project covers:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Investigate the multi-thread programming tool for C++, designed the multi-agent control system with MPI to ensure all the agents are controlled by an independent thread&lt;/li&gt;
 &lt;li&gt;Implement the PID control method based on the agent’s distance to the sphere center to stabilize the agent’s trajectory during its transferring process and rotating on the sphere&lt;/li&gt;
 &lt;li&gt;Visualize the simulation environment with 3-D computer graphics package OpenGL, presented the playground, intended sphere for surrounding and agents with their trajectory during the simulation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The OpenGL based Chess</title>
-      <link>https://wuxiyang1996.github.io/project/chess/</link>
-      <pubDate>Mon, 25 Nov 2019 20:38:15 -0700</pubDate>
-      <guid>https://wuxiyang1996.github.io/project/chess/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;This project intends to design the 3D chess with OpenGL.The enviroment setting could be changed by the user, like lifting up or down the view point, rotating the chessboard, moving the pieces and switching the model between detailed and simplified ones.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 </description>
