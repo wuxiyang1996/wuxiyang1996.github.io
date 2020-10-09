@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "FireCommander 2020 – Multi-agent Wildfire Pruning System based on Learning from Demonstration"
-summary: "FireCommander 2020 is a project that intends to derive an optimal heterogenous multi-agent team control method via inverse reinforcement learning. The multi-agent control is based on the massive user data collected through online interactive platform and optimized with inverse reinforcement learning method."
+title: "FireCommander: An Interactive, Probabilistic Multi-agent Environment for Joint Perception-Action Tasks"
+summary: "The FireCommander is an interactive, probabilistic joint perception-action reconnaissance environment in which a composite team of agents (e.g., robots) cooperate to fight dynamic, propagating firespots (e.g., targets). In FireCommander game, a team of agents must be tasked to optimally deal with a wildfire situation in an environment with propagating fire areas and some facilities such as houses, hospitals, power stations, etc. The team of agents can accomplish their mission by first sensing (e.g., estimating fire states), communicating the sensed fire-information among each other and then taking action to put the firespots out based on the sensed information (e.g., dropping water on estimated fire locations). The FireCommander environment can be useful for research topics spanning a wide range of applications from Reinforcement Learning (RL) and Learning from Demonstration (LfD), to Coordination, Psychology, Human-Robot Interaction (HRI) and Teaming."
 authors: [Esmaeil Seraj, Xiyang Wu*, Matthew Gombolay]
 tags: []
 categories: []
@@ -39,10 +39,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-FireCommander 2020 is a project that intends to derive an optimal heterogenous multi-agent team control method via inverse reinforcement learning. The multi-agent control is based on the massive user data collected through online interactive platform and optimized with inverse reinforcement learning method. My responsibility in this project covers:
- * Investigate the state-of-art of the reinforcement learning, learning from demonstration and multi-agent control, analyze the multi-agent control problem with the mathematical model like AEKF
- * Design the simulation environment for the multi-agent firefighting tasks with PyGame based on the real environment setting, fire propagation model, agent kinematics and control mode, establish the user-interface with PyQt5, design the data storage and animation reconstruction method
- * Implement the reward function based on the hierarchy importance of target, designed various scenarios to deal with real-world circumstances, set up the online platform for massive user data collection, processed the data acquired
- * Design and optimize the multi-agent firefighting control method based on the multi-agent learning from demonstration algorithm and user data collected
-
+The FireCommander is an interactive, probabilistic joint perception-action reconnaissance environment in which a composite team of agents (e.g., robots) cooperate to fight dynamic, propagating firespots (e.g., targets). In FireCommander game, a team of agents must be tasked to optimally deal with a wildfire situation in an environment with propagating fire areas and some facilities such as houses, hospitals, power stations, etc. The team of agents can accomplish their mission by first sensing (e.g., estimating fire states), communicating the sensed fire-information among each other and then taking action to put the firespots out based on the sensed information (e.g., dropping water on estimated fire locations). The FireCommander environment can be useful for research topics spanning a wide range of applications from Reinforcement Learning (RL) and Learning from Demonstration (LfD), to Coordination, Psychology, Human-Robot Interaction (HRI) and Teaming. My responsibility in this project covers:
+ * Investigate the state-of-art of the reinforcement learning, learning from demonstration and multi-agent control, establish the agent kinematics and control model
+ * Design the simulation environment for the multi-agent firefighting tasks with PyGame based on the real environment setting, fire propagation model, agent kinematics and control model
+ * Establish the user-interface with PyQt5 to incorporate the user input or scenario design with the simulation environment, design the data storage and animation reconstruction method
+ * Implement the reward function based on the hierarchy importance of target, implement various scenarios to deal with real-world circumstances
 ---

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Hierarchy Communication-based Perception-Action Coordination in Heterogeneous Robot Team"
-summary: "Focusing on the coopeartive heterogenous MARL in FireCommander2020 environment, which is highly dynamic and stochastic, this project intends to propose a communication-based multi-agent reinforcement learning method. Since the discrate execution framework is typical ineffective, a learnable module is introduced to the interal and exteral agent team communication respectively."
+title: "Learning Heterogeneous Multi-agent Communication for Joint Perception-Control Tasks"
+summary: "Focusing on the coopeartive heterogenous MARL in FireCommander2020 environment, which is highly dynamic and stochastic, this project intends to investigate and propose a multi-agent communication learning framework to improve the cooperative behavior in collaborative Markov games and existing MARL algorithms."
 authors: []
 tags: []
 categories: []
@@ -39,9 +39,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Focusing on the cooperative heterogenous MARL in FireCommander2020 environment, which is highly dynamic and stochastic, this project intends to propose a communication-based multi-agent reinforcement learning method. Since the discrate execution framework is typical ineffective, a learnable module is introduced to the internal end external agent team communication respectively. This project is still ongoing and expected to be done at the end of November. My responsibilities in this project covers:
- * Investigate the frontier of the multi-agent reinforcement learning, analyze the characteristics for several popular MARL algorithm, propose the mathematical model for the environment based on the POMDP framework
+Focusing on the coopeartive heterogenous MARL in FireCommander2020 environment, which is highly dynamic and stochastic, this project intends to investigate and propose a multi-agent communication learning framework to improve the cooperative behavior in collaborative Markov games and existing MARL algorithms. This project is still ongoing and expected to be done at the end of November. My responsibilities in this project covers:
+ * Investigate the state-of-the-art multi-agent reinforcement learning algorithms, analyze the characteristics for several popular MARL algorithm, formulate the communication-problem in FireCommander environment as a POMDP
  * Regulate the FireCommander2020 environment for the multi-agent reinforcement learning, incorporate the agent and fire state update, reward computation module within the framework
- * Implement the vanilla MARL control method on the agents, like the IDQN or IA3C, design the internal and external communication module for effective collaboration
+ * Implement several vanilla MARL algorithms such as IDQN or IA3C, etc. on FireCommander environment for learning end-to-end differentiable communication channel
+ * Implement a heterogeneous end-to-end differentiable communication channel for improved collective behavior in MARL
  * Compare the performace with several baseline network, like IDQN, IA3C, DIAL, QMIX, etc.
 ---
