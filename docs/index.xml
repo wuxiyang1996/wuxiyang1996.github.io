@@ -13,15 +13,16 @@
     </image>
     
     <item>
-      <title>Hierarchy Communication-based Perception-Action Coordination in Heterogeneous Robot Team</title>
+      <title>Learning Heterogeneous Multi-agent Communication for Joint Perception-Control Tasks</title>
       <link>https://wuxiyang1996.github.io/project/hetero-marl/</link>
       <pubDate>Sun, 04 Oct 2020 21:53:45 -0700</pubDate>
       <guid>https://wuxiyang1996.github.io/project/hetero-marl/</guid>
-      <description>&lt;p&gt;Focusing on the cooperative heterogenous MARL in FireCommander2020 environment, which is highly dynamic and stochastic, this project intends to propose a communication-based multi-agent reinforcement learning method. Since the discrate execution framework is typical ineffective, a learnable module is introduced to the internal end external agent team communication respectively. This project is still ongoing and expected to be done at the end of November. My responsibilities in this project covers:&lt;/p&gt;
+      <description>&lt;p&gt;Focusing on the coopeartive heterogenous MARL in FireCommander2020 environment, which is highly dynamic and stochastic, this project intends to investigate and propose a multi-agent communication learning framework to improve the cooperative behavior in collaborative Markov games and existing MARL algorithms. This project is still ongoing and expected to be done at the end of November. My responsibilities in this project covers:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Investigate the frontier of the multi-agent reinforcement learning, analyze the characteristics for several popular MARL algorithm, propose the mathematical model for the environment based on the POMDP framework&lt;/li&gt;
+&lt;li&gt;Investigate the state-of-the-art multi-agent reinforcement learning algorithms, analyze the characteristics for several popular MARL algorithm, formulate the communication-problem in FireCommander environment as a POMDP&lt;/li&gt;
 &lt;li&gt;Regulate the FireCommander2020 environment for the multi-agent reinforcement learning, incorporate the agent and fire state update, reward computation module within the framework&lt;/li&gt;
-&lt;li&gt;Implement the vanilla MARL control method on the agents, like the IDQN or IA3C, design the internal and external communication module for effective collaboration&lt;/li&gt;
+&lt;li&gt;Implement several vanilla MARL algorithms such as IDQN or IA3C, etc. on FireCommander environment for learning end-to-end differentiable communication channel&lt;/li&gt;
+&lt;li&gt;Implement a heterogeneous end-to-end differentiable communication channel for improved collective behavior in MARL&lt;/li&gt;
 &lt;li&gt;Compare the performace with several baseline network, like IDQN, IA3C, DIAL, QMIX, etc.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -37,16 +38,16 @@
     </item>
     
     <item>
-      <title>FireCommander 2020 – Multi-agent Wildfire Pruning System based on Learning from Demonstration</title>
+      <title>FireCommander: An Interactive, Probabilistic Multi-agent Environment for Joint Perception-Action Tasks</title>
       <link>https://wuxiyang1996.github.io/project/rl_2020/</link>
       <pubDate>Thu, 30 Jul 2020 18:27:45 -0700</pubDate>
       <guid>https://wuxiyang1996.github.io/project/rl_2020/</guid>
-      <description>&lt;p&gt;FireCommander 2020 is a project that intends to derive an optimal heterogenous multi-agent team control method via inverse reinforcement learning. The multi-agent control is based on the massive user data collected through online interactive platform and optimized with inverse reinforcement learning method. My responsibility in this project covers:&lt;/p&gt;
+      <description>&lt;p&gt;The FireCommander is an interactive, probabilistic joint perception-action reconnaissance environment in which a composite team of agents (e.g., robots) cooperate to fight dynamic, propagating firespots (e.g., targets). In FireCommander game, a team of agents must be tasked to optimally deal with a wildfire situation in an environment with propagating fire areas and some facilities such as houses, hospitals, power stations, etc. The team of agents can accomplish their mission by first sensing (e.g., estimating fire states), communicating the sensed fire-information among each other and then taking action to put the firespots out based on the sensed information (e.g., dropping water on estimated fire locations). The FireCommander environment can be useful for research topics spanning a wide range of applications from Reinforcement Learning (RL) and Learning from Demonstration (LfD), to Coordination, Psychology, Human-Robot Interaction (HRI) and Teaming. My responsibility in this project covers:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Investigate the state-of-art of the reinforcement learning, learning from demonstration and multi-agent control, analyze the multi-agent control problem with the mathematical model like AEKF&lt;/li&gt;
-&lt;li&gt;Design the simulation environment for the multi-agent firefighting tasks with PyGame based on the real environment setting, fire propagation model, agent kinematics and control mode, establish the user-interface with PyQt5, design the data storage and animation reconstruction method&lt;/li&gt;
-&lt;li&gt;Implement the reward function based on the hierarchy importance of target, designed various scenarios to deal with real-world circumstances, set up the online platform for massive user data collection, processed the data acquired&lt;/li&gt;
-&lt;li&gt;Design and optimize the multi-agent firefighting control method based on the multi-agent learning from demonstration algorithm and user data collected&lt;/li&gt;
+&lt;li&gt;Investigate the state-of-art of the reinforcement learning, learning from demonstration and multi-agent control, establish the agent kinematics and control model&lt;/li&gt;
+&lt;li&gt;Design the simulation environment for the multi-agent firefighting tasks with PyGame based on the real environment setting, fire propagation model, agent kinematics and control model&lt;/li&gt;
+&lt;li&gt;Establish the user-interface with PyQt5 to incorporate the user input or scenario design with the simulation environment, design the data storage and animation reconstruction method&lt;/li&gt;
+&lt;li&gt;Implement the reward function based on the hierarchy importance of target, implement various scenarios to deal with real-world circumstances&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 </description>
