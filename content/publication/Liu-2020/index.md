@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: "IEEE Transactions on Instrumentation & Measurement (Manuscript Submitted)"
 publication_short: ""
 
-abstract: "The photometric stereo method is effective in online inspection tasks, but its performance could be negatively affected by the spatial deviation in raw image, which necessarily exists in the online inspection environment. This article presents an online scratch detection method based on the four-source photometric stereo method. Considering the size of the component, the system divides the inspection process into several locations and generates the standard template covering the whole component beforehand. Once the component approaches one of the presupposed locations, lights from different directions turn on successively and the inspection system acquires images under dim lateral lights. After acquisition, the system compensates the images acquired for their spatial deviation, and coordinates them on the standard template. After coordination, the system extracts the inspection region in the coordinated images, generates the curvature image with the photometric stereo method and detects scratches in the curvature image. Two experiments are designed to verify the feasibility of the inspection method and evaluate the system's performance in the online inspection environment. According to the result, the system's performance meets the accuracy requirements, which verifies the feasibility of this inspection method."
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "This project intends to realize the online scratch inspection tasks on the surface of the complex components. The deviation introduced by conveyer is compensated with shape template matching. The surface variation is reconstructed through photometric stereo method, which helps to extract the defect via local grayscale comparsion."
 
 tags: []
 categories: []
@@ -49,7 +49,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "featured.png"
   focal_point: ""
   preview_only: false
 
@@ -66,4 +66,6 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+---
+The photometric stereo method is effective in online inspection tasks, but its performance could be negatively affected by the spatial deviation in raw image, which necessarily exists in the online inspection environment. This article presents an online scratch detection method based on the four-source photometric stereo method. Considering the size of the component, the system divides the inspection process into several locations and generates the standard template covering the whole component beforehand. Once the component approaches one of the presupposed locations, lights from different directions turn on successively and the inspection system acquires images under dim lateral lights. After acquisition, the system compensates the images acquired for their spatial deviation, and coordinates them on the standard template. After coordination, the system extracts the inspection region in the coordinated images, generates the curvature image with the photometric stereo method and detects scratches in the curvature image. Two experiments are designed to verify the feasibility of the inspection method and evaluate the system's performance in the online inspection environment. According to the result, the system's performance meets the accuracy requirements, which verifies the feasibility of this inspection method.
 ---
