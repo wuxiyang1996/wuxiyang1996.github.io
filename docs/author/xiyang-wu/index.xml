@@ -5,7 +5,7 @@
     <link>https://wuxiyang1996.github.io/author/xiyang-wu/</link>
       <atom:link href="https://wuxiyang1996.github.io/author/xiyang-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiyang Wu*</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 05 Sep 2020 16:23:35 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Nov 2020 13:29:16 -0800</lastBuildDate>
     <image>
       <url>https://wuxiyang1996.github.io/images/icon_hu1f3c730d01a3487fca7c20458b28a1a7_182363_512x512_fill_lanczos_center_2.png</url>
       <title>Xiyang Wu*</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Online defects detection method for gearboxcover based on the four-source photometric stereo method</title>
-      <link>https://wuxiyang1996.github.io/publication/liu-2020/</link>
-      <pubDate>Sat, 05 Sep 2020 16:23:35 -0700</pubDate>
-      <guid>https://wuxiyang1996.github.io/publication/liu-2020/</guid>
-      <description></description>
+      <title>Learning Heterogeneous Multi-agent Communication for Joint Perception-Control Tasks</title>
+      <link>https://wuxiyang1996.github.io/publication/marl_2020/</link>
+      <pubDate>Mon, 23 Nov 2020 13:29:16 -0800</pubDate>
+      <guid>https://wuxiyang1996.github.io/publication/marl_2020/</guid>
+      <description>&lt;p&gt;Focusing on the coopeartive heterogenous MARL in FireCommander2020 environment, which is highly dynamic and stochastic, this project intends to investigate and propose a multi-agent communication learning framework to improve the cooperative behavior in collaborative Markov games and existing MARL algorithms. This project is still ongoing and expected to be done at the end of November. My responsibilities in this project covers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Investigate the state-of-the-art multi-agent reinforcement learning algorithms, analyze the characteristics for several popular MARL algorithm, formulate the multi-agent joint perception-control task in FireCommander environment as a POMDP problem&lt;/li&gt;
+&lt;li&gt;Regulate the FireCommander2020 environment for the multi-agent reinforcement learning, incorporate the agent and fire state update, reward computation module within the framework&lt;/li&gt;
+&lt;li&gt;Implement several MARL algorithms IDQN, DIAL, CommNet, QMIX, COMA, etc. on the FireCommander environment to learn the coordination and cooperation in the heterogeneous agent team&lt;/li&gt;
+&lt;li&gt;Implementing the novel experience sharing method for the optimal coordination and cooperation on the FireCommander environment and compare its performance with the benchmark algorithms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
     </item>
     
     <item>
       <title>FireCommander: An Interactive, Probabilistic Multi-agent Environment for Joint Perception-Action Tasks</title>
-      <link>https://wuxiyang1996.github.io/project/rl_2020/</link>
-      <pubDate>Thu, 30 Jul 2020 18:27:45 -0700</pubDate>
-      <guid>https://wuxiyang1996.github.io/project/rl_2020/</guid>
+      <link>https://wuxiyang1996.github.io/publication/rl_2020/</link>
+      <pubDate>Sat, 31 Oct 2020 02:06:07 -0800</pubDate>
+      <guid>https://wuxiyang1996.github.io/publication/rl_2020/</guid>
       <description>&lt;p&gt;The FireCommander is an interactive, probabilistic joint perception-action reconnaissance environment in which a composite team of agents (e.g., robots) cooperate to fight dynamic, propagating firespots (e.g., targets). In FireCommander game, a team of agents must be tasked to optimally deal with a wildfire situation in an environment with propagating fire areas and some facilities such as houses, hospitals, power stations, etc. The team of agents can accomplish their mission by first sensing (e.g., estimating fire states), communicating the sensed fire-information among each other and then taking action to put the firespots out based on the sensed information (e.g., dropping water on estimated fire locations). The FireCommander environment can be useful for research topics spanning a wide range of applications from Reinforcement Learning (RL) and Learning from Demonstration (LfD), to Coordination, Psychology, Human-Robot Interaction (HRI) and Teaming. My responsibility in this project covers:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Investigate the state-of-art of the reinforcement learning, learning from demonstration and multi-agent control, establish the agent kinematics and control model&lt;/li&gt;
@@ -33,6 +41,15 @@
 &lt;li&gt;Implement the reward function based on the hierarchy importance of target, implement various scenarios to deal with real-world circumstances&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online defects detection method for gearboxcover based on the four-source photometric stereo method</title>
+      <link>https://wuxiyang1996.github.io/publication/liu-2020/</link>
+      <pubDate>Sat, 05 Sep 2020 16:23:35 -0700</pubDate>
+      <guid>https://wuxiyang1996.github.io/publication/liu-2020/</guid>
+      <description>&lt;h2 id=&#34;the-photometric-stereo-method-is-effective-in-online-inspection-tasks-but-its-performance-could-be-negatively-affected-by-the-spatial-deviation-in-raw-image-which-necessarily-exists-in-the-online-inspection-environment-this-article-presents-an-online-scratch-detection-method-based-on-the-four-source-photometric-stereo-method-considering-the-size-of-the-component-the-system-divides-the-inspection-process-into-several-locations-and-generates-the-standard-template-covering-the-whole-component-beforehand-once-the-component-approaches-one-of-the-presupposed-locations-lights-from-different-directions-turn-on-successively-and-the-inspection-system-acquires-images-under-dim-lateral-lights-after-acquisition-the-system-compensates-the-images-acquired-for-their-spatial-deviation-and-coordinates-them-on-the-standard-template-after-coordination-the-system-extracts-the-inspection-region-in-the-coordinated-images-generates-the-curvature-image-with-the-photometric-stereo-method-and-detects-scratches-in-the-curvature-image-two-experiments-are-designed-to-verify-the-feasibility-of-the-inspection-method-and-evaluate-the-systems-performance-in-the-online-inspection-environment-according-to-the-result-the-systems-performance-meets-the-accuracy-requirements-which-verifies-the-feasibility-of-this-inspection-method&#34;&gt;The photometric stereo method is effective in online inspection tasks, but its performance could be negatively affected by the spatial deviation in raw image, which necessarily exists in the online inspection environment. This article presents an online scratch detection method based on the four-source photometric stereo method. Considering the size of the component, the system divides the inspection process into several locations and generates the standard template covering the whole component beforehand. Once the component approaches one of the presupposed locations, lights from different directions turn on successively and the inspection system acquires images under dim lateral lights. After acquisition, the system compensates the images acquired for their spatial deviation, and coordinates them on the standard template. After coordination, the system extracts the inspection region in the coordinated images, generates the curvature image with the photometric stereo method and detects scratches in the curvature image. Two experiments are designed to verify the feasibility of the inspection method and evaluate the system&amp;rsquo;s performance in the online inspection environment. According to the result, the system&amp;rsquo;s performance meets the accuracy requirements, which verifies the feasibility of this inspection method.&lt;/h2&gt;
 </description>
     </item>
     
@@ -78,22 +95,6 @@ Buzzcup intends to simulate the PID control on the circluar motion of multiple a
 &lt;li&gt;Investigate the multi-thread programming tool for C++, designed the multi-agent control system with MPI to ensure all the agents are controlled by an independent thread&lt;/li&gt;
 &lt;li&gt;Implement the PID control method based on the agent’s distance to the sphere center to stabilize the agent’s trajectory during its transferring process and rotating on the sphere&lt;/li&gt;
 &lt;li&gt;Visualize the simulation environment with 3-D computer graphics package OpenGL, presented the playground, intended sphere for surrounding and agents with their trajectory during the simulation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Online Component Scratch Inspection System Based on the Photometric Stereo Method</title>
-      <link>https://wuxiyang1996.github.io/project/photometric/</link>
-      <pubDate>Thu, 15 Aug 2019 20:38:33 -0700</pubDate>
-      <guid>https://wuxiyang1996.github.io/project/photometric/</guid>
-      <description>&lt;p&gt;This project intends to realize the online scratch inspection tasks on the surface of the complex components. The deviation introduced by conveyer is compensated with shape template matching. The surface variation is reconstructed through photometric stereo method, which helps to extract the defect via local grayscale comparsion. My responsibily covers:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Survey frontiers of the automatic inspection system for complex components, investigate various scratch detection methods, design the online inspection system with the photometric stereo method&lt;/li&gt;
-&lt;li&gt;Coordinate the images in the online inspection environment by shape matching to compensate for the spatial deviation between proximate images, generated and implemented the region template to extract the inspection region at each inspection location&lt;/li&gt;
-&lt;li&gt;Generate the curvature image with the photometric stereo method that presents the surface contour in grayscale, detect scratches on the component’s surface with image morphology method&lt;/li&gt;
-&lt;li&gt;Summarize and present the investigation result in the undergraduate thesis and the paper Online defects detection method for gearboxcover based on the four-source photometric stereo method&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 </description>

@@ -17,22 +17,7 @@
       <link>https://wuxiyang1996.github.io/publication/liu-2020/</link>
       <pubDate>Sat, 05 Sep 2020 16:23:35 -0700</pubDate>
       <guid>https://wuxiyang1996.github.io/publication/liu-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Online Component Scratch Inspection System Based on the Photometric Stereo Method</title>
-      <link>https://wuxiyang1996.github.io/project/photometric/</link>
-      <pubDate>Thu, 15 Aug 2019 20:38:33 -0700</pubDate>
-      <guid>https://wuxiyang1996.github.io/project/photometric/</guid>
-      <description>&lt;p&gt;This project intends to realize the online scratch inspection tasks on the surface of the complex components. The deviation introduced by conveyer is compensated with shape template matching. The surface variation is reconstructed through photometric stereo method, which helps to extract the defect via local grayscale comparsion. My responsibily covers:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Survey frontiers of the automatic inspection system for complex components, investigate various scratch detection methods, design the online inspection system with the photometric stereo method&lt;/li&gt;
-&lt;li&gt;Coordinate the images in the online inspection environment by shape matching to compensate for the spatial deviation between proximate images, generated and implemented the region template to extract the inspection region at each inspection location&lt;/li&gt;
-&lt;li&gt;Generate the curvature image with the photometric stereo method that presents the surface contour in grayscale, detect scratches on the component’s surface with image morphology method&lt;/li&gt;
-&lt;li&gt;Summarize and present the investigation result in the undergraduate thesis and the paper Online defects detection method for gearboxcover based on the four-source photometric stereo method&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+      <description>&lt;h2 id=&#34;the-photometric-stereo-method-is-effective-in-online-inspection-tasks-but-its-performance-could-be-negatively-affected-by-the-spatial-deviation-in-raw-image-which-necessarily-exists-in-the-online-inspection-environment-this-article-presents-an-online-scratch-detection-method-based-on-the-four-source-photometric-stereo-method-considering-the-size-of-the-component-the-system-divides-the-inspection-process-into-several-locations-and-generates-the-standard-template-covering-the-whole-component-beforehand-once-the-component-approaches-one-of-the-presupposed-locations-lights-from-different-directions-turn-on-successively-and-the-inspection-system-acquires-images-under-dim-lateral-lights-after-acquisition-the-system-compensates-the-images-acquired-for-their-spatial-deviation-and-coordinates-them-on-the-standard-template-after-coordination-the-system-extracts-the-inspection-region-in-the-coordinated-images-generates-the-curvature-image-with-the-photometric-stereo-method-and-detects-scratches-in-the-curvature-image-two-experiments-are-designed-to-verify-the-feasibility-of-the-inspection-method-and-evaluate-the-systems-performance-in-the-online-inspection-environment-according-to-the-result-the-systems-performance-meets-the-accuracy-requirements-which-verifies-the-feasibility-of-this-inspection-method&#34;&gt;The photometric stereo method is effective in online inspection tasks, but its performance could be negatively affected by the spatial deviation in raw image, which necessarily exists in the online inspection environment. This article presents an online scratch detection method based on the four-source photometric stereo method. Considering the size of the component, the system divides the inspection process into several locations and generates the standard template covering the whole component beforehand. Once the component approaches one of the presupposed locations, lights from different directions turn on successively and the inspection system acquires images under dim lateral lights. After acquisition, the system compensates the images acquired for their spatial deviation, and coordinates them on the standard template. After coordination, the system extracts the inspection region in the coordinated images, generates the curvature image with the photometric stereo method and detects scratches in the curvature image. Two experiments are designed to verify the feasibility of the inspection method and evaluate the system&amp;rsquo;s performance in the online inspection environment. According to the result, the system&amp;rsquo;s performance meets the accuracy requirements, which verifies the feasibility of this inspection method.&lt;/h2&gt;
 </description>
     </item>
     
