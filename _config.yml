@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Xiyang Wu"
 title_separator          : "-"
 name                     : &name "Xiyang Wu"
-description              : &description "personal description"
+description              : &description "Xiyang Wu's Personal Website"
 url                      : "https://wuxiyang1996.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "wuxiyang1996/wuxiyang1996.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @wu_xiyang
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Xiyang Wu"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "XiyangWu.png"
+  bio              : "Ph.D Student at University of Maryland, College Park"
   location         : "College Park, MD"
   employer         :
   pubmed           :
