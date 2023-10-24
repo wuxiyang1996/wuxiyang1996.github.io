@@ -44,7 +44,7 @@ td, th {
 
 </style>
 
-<div style="height:100px;overflow:auto;">
+<div style="height:300px;overflow:auto;">
 <table style="border-collapse: collapse;font-size: 18px;border: none;">
 <col width="110px">
 <!-- <col width="630px"> -->
