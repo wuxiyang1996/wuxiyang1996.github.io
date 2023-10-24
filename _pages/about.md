@@ -28,7 +28,22 @@ Education
 News
 ======
 
+<style>
+/* table {
+    border-collapse: collapse!important;
+    font-size: 18px!important;
+    border: none!important;
+} */
+td, th {
+    border: none!important;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  /* padding-left: 30px;
+  padding-right: 40px; */
+}
+
 </style>
+
 <div style="height:500px;overflow:auto;">
 <table style="border-collapse: collapse;font-size: 18px;border: none;">
 <col width="110px">
