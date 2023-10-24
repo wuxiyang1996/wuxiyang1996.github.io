@@ -21,13 +21,28 @@ Research Interest
 
 Education
 ======
- - Ph.D. in Electrical and Computer Engineering, University of Maryland, 2021 - 2026 (Expected)
+ - Ph.D. in Electrical and Computer Engineering, University of Maryland, College Park, 2021 - 2026 (Expected)
  - M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, 2019 - 2021
- - B.Eng. in Electrical Engineering (Honors Class), Tianjin University , 2015 - 2019
+ - B.Eng. in Electrical Engineering (Honors Class), Tianjin University, 2015 - 2019
 
 News
 ======
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+
+</style>
+<div style="height:500px;overflow:auto;">
+<table style="border-collapse: collapse;font-size: 18px;border: none;">
+<col width="110px">
+<!-- <col width="630px"> -->
+  <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
+  <tr><td><b>Oct 2023:</b></td><td><a style="color:black" href="/iplan_MRS">iPlan</a> was award as <strong style="color:red">best paper award</strong> by at <b>IROS</b> 2023 MRS Workshop!</td></tr>
+  <tr><td><b>Sep 2023:</b></td><td><a style="color:black" href="/LANCAR">LANCAR</a> was submitted to <b>ICRA </b> 2024</td></tr>
+  <tr><td><b>Aug 2023:</b></td><td><a style="color:black" href="/iplan">iPlan</a> was accepted to <b>CoRL</b> 2023 with <strong style="color:red">oral (6.6%)</strong> presentation!</td></tr>
+  <tr><td><b>Aug 2023:</b></td><td> One paper was accepted to <b>Digital Signal Processing</b></td></tr>
+  <tr><td><b>Aug 2021:</b></td><td>Started Ph.D. at University of Maryland, College Park!</td></tr>
+  <tr><td><b>Aug 2019:</b></td><td>Started M.S. at Georgia Institute of Technology.</td></tr>
+</table>
+</div>
+
 
 Create content & metadata
 ------
