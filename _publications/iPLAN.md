@@ -18,7 +18,7 @@ redirect_from:
 ---
 
 <p style="text-align:center;">
-<img src="../images/iplan_net.png" width="800">
+<img src="../images/iPLAN.png" width="800">
 </p>
 
 ## Abstract
