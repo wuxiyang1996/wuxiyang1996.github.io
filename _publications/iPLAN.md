@@ -10,7 +10,7 @@ paperurl: 'https://arxiv.org/abs/2306.06236'
 note: 'oral (6.6%)'
 workshop: 'Abridged in IROS 2023 Advances in Multi-Agent Learning - Coordination, Peception and Control Workshop. <strong style="color:red">Best Paper and Presentation Award.</strong>'
 teaser: '../images/iPLAN.png'
-authors: "Xiyang Wu, Rohan Chandra, <b>Tianrui Guan</b>, Amrit Singh Bedi, Dinesh Manocha"
+authors: "<b>Xiyang Wu</b>, Rohan Chandra, Tianrui Guan, Amrit Singh Bedi, Dinesh Manocha"
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 code: "https://github.com/wuxiyang1996/iPLAN"
 redirect_from: 
