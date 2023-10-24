@@ -21,18 +21,12 @@ Research Interest
 
 Education
 ======
- - Ph.D. in Electrical and Computer Engineering
-   University of Maryland
-   2021 - 2026 (Expected)
- - M.S. in Electrical and Computer Engineering
-   Georgia Institute of Technology
-   2019 - 2021
- - B.Eng. in Electrical Engineering (Honors Class)
-   Tianjin University
-   2015 - 2019
+ - Ph.D. in Electrical and Computer Engineering, University of Maryland, 2021 - 2026 (Expected)
+ - M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, 2019 - 2021
+ - B.Eng. in Electrical Engineering (Honors Class), Tianjin University , 2015 - 2019
 
-Site-wide configuration
-------
+News
+======
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
