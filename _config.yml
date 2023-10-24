@@ -82,34 +82,34 @@ analytics:
 author:
   name             : "Xiyang Wu"
   avatar           : "XiyangWu.png"
-  bio              : "Ph.D Student at University of Maryland, College Park"
+  bio              : "Ph.D Student at University of Maryland, College Park |<br> A group member of <a href=\"https://gamma.umd.edu/\">GAMMA</a> <br><br>email: wuxiyang [at] umd.edu"
   location         : "College Park, MD"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=sI05dqQAAAAJ&hl=en"
   email            : "wuxiyang@umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://wuxiyang1996.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/wuxiyang1996"
+  github           : "wuxiyang1996"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "xiyang-wu-0b120614b"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "wu_xiyang"
   vine             :
   weibo            :
   xing             :
