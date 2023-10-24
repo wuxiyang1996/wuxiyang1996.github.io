@@ -30,7 +30,7 @@ redirect_from:
 <br>
 
 Please cite our work if you found it useful,
-<font size=12>
+
 ```
 @misc{seraj2021firecommander,
       title={FireCommander: An Interactive, Probabilistic Multi-agent Environment for Heterogeneous Robot Teams}, 
