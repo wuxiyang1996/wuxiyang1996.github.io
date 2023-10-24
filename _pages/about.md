@@ -12,6 +12,8 @@ My name is Xiyang Wu. I am a Ph.D. student in Electrical and Computer Engineerin
 
 My research interest lies in using the reasoning ability of neural networks and Large Language Models in robot decision-making and navigation tasks. Specifically, incorporating Large Language Models with reinforcement learning approaches in multi-agent coordination, scene understanding, and opponents' intention inference when navigating and collaborating under complex and heterogeneous environments.
 
+Please check list of publications [here](http://wuxiyang1996.github.io/publications/).
+
 Research Interest
 ======
 - Reinforcement Learning
