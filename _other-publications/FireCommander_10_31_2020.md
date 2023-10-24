@@ -8,6 +8,7 @@ venue: 'arXiv:2011.001653'
 short: 'arXiv:2011.001653'
 paperurl: 'https://arxiv.org/pdf/2011.00165.pdf'
 teaser: '../images/FireCommander2020.png'
+slides: '../files/FireCommander2020_Xiyang_Wu.pdf'
 authors: "Esmaeil Seraj, <b>Xiyang Wu</b>, Matthew Gombolay"
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 redirect_from: 
