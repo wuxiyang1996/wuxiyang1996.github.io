@@ -37,8 +37,8 @@ News
   <tr><td><b>Oct 2023:</b></td><td><a style="color:black" href="/iplan_MRS">iPlan</a> was award as <strong style="color:red">best paper award</strong> by at <b>IROS</b> 2023 MRS Workshop!</td></tr>
   <tr><td><b>Sep 2023:</b></td><td><a style="color:black" href="/LANCAR">LANCAR</a> was submitted to <b>ICRA </b> 2024</td></tr>
   <tr><td><b>Aug 2023:</b></td><td><a style="color:black" href="/iplan">iPlan</a> was accepted to <b>CoRL</b> 2023 with <strong style="color:red">oral (6.6%)</strong> presentation!</td></tr>
-  <tr><td><b>Aug 2023:</b></td><td> One paper was accepted to <b>Digital Signal Processing</b></td></tr>
-  <tr><td><b>Aug 2021:</b></td><td>Started Ph.D. at University of Maryland, College Park!</td></tr>
+  <tr><td><b>Aug 2023:</b></td><td> One paper was accepted to <b>Digital Signal Processing! </b></td></tr>
+  <tr><td><b>Aug 2021:</b></td><td>Started Ph.D. at University of Maryland, College Park.</td></tr>
   <tr><td><b>Aug 2019:</b></td><td>Started M.S. at Georgia Institute of Technology.</td></tr>
 </table>
 </div>
