@@ -52,7 +52,7 @@ td, th {
   <tr><td><b>Oct 2023:</b></td><td><a style="color:black" href="/iplan_MRS">iPlan</a> was award as <strong style="color:red">Best Paper Award</strong> by at <b>IROS 2023</b> MRS Workshop!</td></tr>
   <tr><td><b>Sep 2023:</b></td><td><a style="color:black" href="/LANCAR">LANCAR</a> was submitted to <b>ICRA 2024</b></td></tr>
   <tr><td><b>Aug 2023:</b></td><td><a style="color:black" href="/iplan">iPlan</a> was accepted to <b>CoRL 2023</b> with <strong style="color:red">Oral Presentation (Accept Rate: 6.6%)</strong> !</td></tr>
-  <tr><td><b>Aug 2023:</b></td><td> One paper was accepted to <b>Digital Signal Processing! </b></td></tr>
+  <tr><td><b>Aug 2023:</b></td><td> One paper was accepted to <b>Digital Signal Processing</b>!</td></tr>
   <tr><td><b>Aug 2021:</b></td><td>Started Ph.D. at University of Maryland, College Park.</td></tr>
   <tr><td><b>Aug 2019:</b></td><td>Started M.S. at Georgia Institute of Technology.</td></tr>
 </table>
