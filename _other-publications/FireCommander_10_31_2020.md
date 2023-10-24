@@ -25,7 +25,7 @@ redirect_from:
 
 | Paper                                         | Slide                                                   | Code                                                      |
 |-----------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------|
-| [**LANCAR**](https://arxiv.org/abs/2310.00481) | [**Slide**]('../files/FireCommander2020_Xiyang_Wu.pdf') | [**Code**](https://github.com/EsiSeraj/FireCommander2020) |
+| [**FireCommander2020**](https://arxiv.org/abs/2310.00481) | [**Slide**]('../files/FireCommander2020_Xiyang_Wu.pdf') | [**Code**](https://github.com/EsiSeraj/FireCommander2020) |
 
 <br>
 
