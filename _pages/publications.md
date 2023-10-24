@@ -1,16 +1,30 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
+# redirect_to: 
+#   - /#pub
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<style>
+td, th {
+    border: none!important;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  /* padding-left: 30px;
+  padding-right: 40px; */
+}
+</style>
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include archive-compact.html %}
+
+Other Publications
+======
+
+{% include archive-compact-other.html %}
+
+
+You can also find the articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>. 
