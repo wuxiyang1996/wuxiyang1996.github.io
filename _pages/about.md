@@ -57,3 +57,13 @@ td, th {
   <tr><td><b>Aug 2019:</b></td><td>Started M.S. at Georgia Institute of Technology.</td></tr>
 </table>
 </div>
+
+<br>
+
+Selected Publications<a id="pub"></a>
+======
+
+
+{% include base_path %}
+
+{% include archive-compact.html %}
