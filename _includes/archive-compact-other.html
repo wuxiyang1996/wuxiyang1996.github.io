@@ -2,7 +2,6 @@
 
 <table style="font-size:15px;width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
-
     {% for post in site.other-publications reversed %}
       {% if post.header.teaser %}
         {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
@@ -52,6 +51,5 @@
       </td>
     </tr>
     {% endfor %}
-
   </tbody>
 </table>
