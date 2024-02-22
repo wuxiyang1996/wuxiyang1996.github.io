@@ -2,43 +2,42 @@
 title: "On the Safety Concerns of Deploying LLMs/VLMs in Robotics: Highlighting the Risks and Vulnerabilities"
 collection: publications
 permalink: /publications/adversary_robot_02_15_2024
-excerpt: 'Navigating safely and efficiently in dense and heterogeneous traffic scenarios is challenging for autonomous vehicles (AVs) due to their inability to infer the behaviors or intentions of nearby drivers. In this work, we introduce a distributed multi-agent reinforcement learning (MARL) algorithm that can predict trajectories and intents in dense and heterogeneous traffic scenarios. Our approach for intent-aware planning, iPLAN, allows agents to infer nearby drivers intents solely from their local observations. We model two distinct incentives for agents strategies: Behavioral Incentive for high-level decision-making based on their driving behavior or personality and Instant Incentive for motion planning for collision avoidance based on the current traffic state. Our approach enables agents to infer their opponents behavior incentives and integrate this inferred information into their decision-making and motion-planning processes. We perform experiments on two simulation environments, Non-Cooperative Navigation and Heterogeneous Highway. In Heterogeneous Highway, results show that, compared with centralized training decentralized execution (CTDE) MARL baselines such as QMIX and MAPPO, our method yields a 4.3% and 38.4% higher episodic reward in mild and chaotic traffic, with 48.1% higher success rate and 80.6% longer survival time in chaotic traffic. We also compare with a decentralized training decentralized execution (DTDE) baseline IPPO and demonstrate a higher episodic reward of 12.7% and 6.3% in mild traffic and chaotic traffic, 25.3% higher success rate, and 13.7% longer survival time.'
+excerpt: 'In this paper, we highlight the critical issues of robustness and safety associated with integrating large language models (LLMs) and vision-language models (VLMs) into robotics applications. Recent works have focused on using LLMs and VLMs to improve the performance of robotics tasks, such as manipulation, navigation, etc. However, such integration can introduce significant vulnerabilities, in terms of their susceptibility to adversarial attacks due to the language models, potentially leading to catastrophic consequences. By examining recent works at the interface of LLMs/VLMs and robotics, we show that it is easy to manipulate or misguide the robot's actions, leading to safety hazards. We define and provide examples of several plausible adversarial attacks, and conduct experiments on three prominent robot frameworks integrated with a language model, including KnowNo VIMA, and Instruct2Act, to assess their susceptibility to these attacks. Our empirical findings reveal a striking vulnerability of LLM/VLM-robot integrated systems: simple adversarial attacks can significantly undermine the effectiveness of LLM/VLM-robot integrated systems. Specifically, our data demonstrate an average performance deterioration of 21.2% under prompt attacks and a more alarming 30.2% under perception attacks. These results underscore the critical need for robust countermeasures to ensure the safe and reliable deployment of the advanced LLM/VLM-based robotic systems.'
 date: 2024-02-15
-venue: '7th Annual Conference on Robot Learning'
-short: 'CoRL'
-paperurl: 'https://arxiv.org/abs/2306.06236'
-note: 'oral (6.6%)'
-workshop: 'Abridged in IROS 2023 Advances in Multi-Agent Learning - Coordination, Peception and Control Workshop. <strong style="color:red">Best Paper and Presentation Award.</strong>'
-teaser: '../images/iPLAN.png'
-authors: "<b>Xiyang Wu</b>, Rohan Chandra, Tianrui Guan, Amrit Singh Bedi, Dinesh Manocha"
+venue: 'arXiv:2402.10340'
+short: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2402.10340'
+teaser: '../images/adversary_robot.png'
+authors: "<b>Xiyang Wu</b>, Ruiqi Xian, Tianrui Guan, Jing Liang, Souradip Chakraborty, Fuxiao Liu, Brian Sadler, Dinesh Manocha, Amrit Singh Bedi"
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-code: "https://github.com/wuxiyang1996/iPLAN"
+code: "https://github.com/wuxiyang1996/Adversary-Robotics"
 redirect_from: 
   - /adversary_robot
 ---
 
 <p style="text-align:center;">
-<img src="../images/iPLAN.png" width="800">
+<img src="../images/adversary_robot.png" width="800">
 </p>
 
 ## Abstract
-<div style="text-align: justify"> Navigating safely and efficiently in dense and heterogeneous traffic scenarios is challenging for autonomous vehicles (AVs) due to their inability to infer the behaviors or intentions of nearby drivers. In this work, we introduce a distributed multi-agent reinforcement learning (MARL) algorithm that can predict trajectories and intents in dense and heterogeneous traffic scenarios. Our approach for intent-aware planning, iPLAN, allows agents to infer nearby drivers intents solely from their local observations. We model two distinct incentives for agents strategies: Behavioral Incentive for high-level decision-making based on their driving behavior or personality and Instant Incentive for motion planning for collision avoidance based on the current traffic state. Our approach enables agents to infer their opponents behavior incentives and integrate this inferred information into their decision-making and motion-planning processes. We perform experiments on two simulation environments, Non-Cooperative Navigation and Heterogeneous Highway. In Heterogeneous Highway, results show that, compared with centralized training decentralized execution (CTDE) MARL baselines such as QMIX and MAPPO, our method yields a 4.3% and 38.4% higher episodic reward in mild and chaotic traffic, with 48.1% higher success rate and 80.6% longer survival time in chaotic traffic. We also compare with a decentralized training decentralized execution (DTDE) baseline IPPO and demonstrate a higher episodic reward of 12.7% and 6.3% in mild traffic and chaotic traffic, 25.3% higher success rate, and 13.7% longer survival time. </div>
+<div style="text-align: justify"> 'In this paper, we highlight the critical issues of robustness and safety associated with integrating large language models (LLMs) and vision-language models (VLMs) into robotics applications. Recent works have focused on using LLMs and VLMs to improve the performance of robotics tasks, such as manipulation, navigation, etc. However, such integration can introduce significant vulnerabilities, in terms of their susceptibility to adversarial attacks due to the language models, potentially leading to catastrophic consequences. By examining recent works at the interface of LLMs/VLMs and robotics, we show that it is easy to manipulate or misguide the robot's actions, leading to safety hazards. We define and provide examples of several plausible adversarial attacks, and conduct experiments on three prominent robot frameworks integrated with a language model, including KnowNo VIMA, and Instruct2Act, to assess their susceptibility to these attacks. Our empirical findings reveal a striking vulnerability of LLM/VLM-robot integrated systems: simple adversarial attacks can significantly undermine the effectiveness of LLM/VLM-robot integrated systems. Specifically, our data demonstrate an average performance deterioration of 21.2% under prompt attacks and a more alarming 30.2% under perception attacks. These results underscore the critical need for robust countermeasures to ensure the safe and reliable deployment of the advanced LLM/VLM-based robotic systems.'
+</div>
 <br>
 
 
-| Paper                                         |Code| 
-|-----------------------------------------------|---|
-| [**iPLAN**](https://arxiv.org/abs/2306.06236) | [**GitHub Code**](https://github.com/wuxiyang1996/iPLAN)| 
+| Paper                                         | Webpage                                                                | Code | 
+|-----------------------------------------------|------------------------------------------------------------------------|------|
+| [**iPLAN**](https://arxiv.org/abs/2402.10340) | [**Webpage**](https://wuxiyang1996.github.io/adversary-vlm-robotics/)| [**GitHub Code**](https://github.com/wuxiyang1996/Adversary-Robotics) | 
 
 <br>
 
 Please cite our work if you found it useful,
 
 ```
-@inproceedings{wu2023intent,
-  title={Intent-Aware Planning in Heterogeneous Traffic via Distributed Multi-Agent Reinforcement Learning},
-  author={Wu, Xiyang and Chandra, Rohan and Guan, Tianrui and Bedi, Amrit and Manocha, Dinesh},
-  booktitle={7th Annual Conference on Robot Learning},
-  year={2023}
+@article{wu2024safety,
+  title={On the Safety Concerns of Deploying LLMs/VLMs in Robotics: Highlighting the Risks and Vulnerabilities},
+  author={Wu, Xiyang and Xian, Ruiqi and Guan, Tianrui and Liang, Jing and Chakraborty, Souradip and Liu, Fuxiao and Sadler, Brian and Manocha, Dinesh and Bedi, Amrit Singh},
+  journal={arXiv preprint arXiv:2402.10340},
+  year={2024}
 }
 ```
