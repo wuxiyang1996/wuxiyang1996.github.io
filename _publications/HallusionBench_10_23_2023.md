@@ -8,8 +8,7 @@ venue: 'arXiv:2310.14566'
 short: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2310.14566'
 teaser: '../images/HallusionBench.png'
-authors: "Tianrui Guan, Fuxiao Liu, <b>Xiyang Wu</b>, Ruiqi Xian, Zongxia Li, Xiaoyu Liu, Xijun Wang, Lichang Chen, 
-Furong Huang, Yaser Yacoob, Dinesh Manocha, Tianyi Zhou"
+authors: "Tianrui Guan, Fuxiao Liu, <b>Xiyang Wu</b>, Ruiqi Xian, Zongxia Li, Xiaoyu Liu, Xijun Wang, Lichang Chen, Furong Huang, Yaser Yacoob, Dinesh Manocha, Tianyi Zhou"
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 code: "https://github.com/tianyi-lab/HallusionBench"
 redirect_from: 
@@ -17,7 +16,7 @@ redirect_from:
 ---
 
 <p style="text-align:center;">
-<img src="../images/HallusionBench.png" width="800">
+<img src="../images/LANCAR.png" width="800">
 </p>
 
 ## Abstract
