@@ -26,9 +26,9 @@ redirect_from:
 <br>
 
 
-| Paper                                         | Webpage                                                                | Code | 
+| Paper                                         | Project Website                                                                | Code | 
 |-----------------------------------------------|------------------------------------------------------------------------|------|
-| [**arXiv**](https://arxiv.org/abs/2402.10340) | [**Webpage**](https://wuxiyang1996.github.io/adversary-vlm-robotics/)| [**GitHub Code**](https://github.com/wuxiyang1996/Adversary-Robotics) | 
+| [**arXiv**](https://arxiv.org/abs/2402.10340) | [**Project Website**](https://wuxiyang1996.github.io/adversary-vlm-robotics/)| [**GitHub Code**](https://github.com/wuxiyang1996/Adversary-Robotics) | 
 
 <br>
 
