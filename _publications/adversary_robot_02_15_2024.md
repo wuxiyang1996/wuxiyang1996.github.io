@@ -16,7 +16,7 @@ redirect_from:
 ---
 
 <p style="text-align:center;">
-<img src="../images/LANCAR.png" width="800">
+<img src="../images/adversary_robot.png" width="800">
 </p>
 
 ## Abstract
