@@ -45,8 +45,7 @@ td, th {
 }
 
 </style>
-We release an early report and analysis on failure modes of GPT-4V and LLaVA-1.5. Stay tuned on the release of our dataset
-<div style="height:200px;overflow:auto;">
+<div style="height:300px;overflow:auto;">
 <table style="border-collapse: collapse;font-size: 18px;border: none;">
 <col width="110px">
 <!-- <col width="630px"> -->
