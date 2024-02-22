@@ -10,6 +10,7 @@ paperurl: 'https://arxiv.org/abs/2402.10340'
 teaser: '/images/adversary_robot.png'
 authors: "<b>Xiyang Wu</b>, Ruiqi Xian, Tianrui Guan, Jing Liang, Souradip Chakraborty, Fuxiao Liu, Brian Sadler, Dinesh Manocha, Amrit Singh Bedi"
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+project: "https://wuxiyang1996.github.io/adversary-vlm-robotics/"
 code: "https://github.com/wuxiyang1996/Adversary-Robotics"
 redirect_from: 
   - /adversary_robot
