@@ -12,7 +12,7 @@ authors: "<b>Xiyang Wu</b>, Ruiqi Xian, Tianrui Guan, Jing Liang, Souradip Chakr
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 code: "https://github.com/wuxiyang1996/Adversary-Robotics"
 redirect_from: 
-  - /publications/adversary_robot
+  - /adversary_robot
 ---
 
 <p style="text-align:center;">
