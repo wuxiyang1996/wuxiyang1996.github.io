@@ -45,12 +45,13 @@ td, th {
 }
 
 </style>
-
+We release an early report and analysis on failure modes of GPT-4V and LLaVA-1.5. Stay tuned on the release of our dataset
 <div style="height:200px;overflow:auto;">
 <table style="border-collapse: collapse;font-size: 18px;border: none;">
 <col width="110px">
 <!-- <col width="630px"> -->
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
+<tr><td><b>Oct 2023:</b></td><td> We release an <a style="color:black" href="https://huggingface.co/papers/2310.14566">early report</a> and analysis on failure modes of GPT-4V and LLaVA-1.5. Stay tuned on the release of our dataset <a style="color:black" href="/HallusionBench">HallusionBench</a>!</td></tr>
   <tr><td><b>Oct 2023:</b></td><td><a style="color:black" href="/iplan">iPLAN</a> was award as <strong style="color:red">Best Paper Award</strong> by at <b>IROS 2023</b> MRS Workshop!</td></tr>
   <tr><td><b>Sep 2023:</b></td><td><a style="color:black" href="/LANCAR">LANCAR</a> was submitted to <b>ICRA 2024</b></td></tr>
   <tr><td><b>Aug 2023:</b></td><td><a style="color:black" href="/iplan">iPLAN</a> was accepted to <b>CoRL 2023</b> with <strong style="color:red">Oral Presentation (Accept Rate: 6.6%)</strong> !</td></tr>
