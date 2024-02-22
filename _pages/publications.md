@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Selected Publications"
-permalink: /publications/
+permalink: publications/
 author_profile: true
 # redirect_to: 
 #   - /#pub
@@ -27,4 +27,4 @@ Other Publications
 {% include archive-compact-other.html %}
 
 
-You can also find the articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>. 
+You can also find the articles on my <a href="{{ site.author.googlescholar }}">Google Scholar</a> profile. 
