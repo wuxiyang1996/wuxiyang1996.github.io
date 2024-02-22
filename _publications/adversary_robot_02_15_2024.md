@@ -7,7 +7,7 @@ date: 2024-02-15
 venue: 'arXiv:2402.10340'
 short: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2402.10340'
-teaser: '/images/adversary_robot.png'
+teaser: '../images/LANCAR.png'
 authors: "<b>Xiyang Wu</b>, Ruiqi Xian, Tianrui Guan, Jing Liang, Souradip Chakraborty, Fuxiao Liu, Brian Sadler, Dinesh Manocha, Amrit Singh Bedi"
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 code: "https://github.com/wuxiyang1996/Adversary-Robotics"
@@ -16,7 +16,7 @@ redirect_from:
 ---
 
 <p style="text-align:center;">
-<img src="/images/adversary_robot.png" width="800">
+<img src="../images/LANCAR.png" width="800">
 </p>
 
 ## Abstract
@@ -27,7 +27,7 @@ redirect_from:
 
 | Paper                                         | Webpage                                                                | Code | 
 |-----------------------------------------------|------------------------------------------------------------------------|------|
-| [**iPLAN**](https://arxiv.org/abs/2402.10340) | [**Webpage**](https://wuxiyang1996.github.io/adversary-vlm-robotics/)| [**GitHub Code**](https://github.com/wuxiyang1996/Adversary-Robotics) | 
+| [**arXiv**](https://arxiv.org/abs/2402.10340) | [**Webpage**](https://wuxiyang1996.github.io/adversary-vlm-robotics/)| [**GitHub Code**](https://github.com/wuxiyang1996/Adversary-Robotics) | 
 
 <br>
 
