@@ -50,6 +50,7 @@ td, th {
 <col width="110px">
 <!-- <col width="630px"> -->
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
+  <tr><td><b>Feb 2024:</b></td><td> We release highlight the critical issues of robustness and safety associated with integrating large language models (LLMs) and vision-language models (VLMs) into robotics applications. The project webpage is released <a style="color:black" href="https://wuxiyang1996.github.io/adversary-vlm-robotics/">here</a>. </td></tr>
   <tr><td><b>Oct 2023:</b></td><td> We release an <a style="color:black" href="https://huggingface.co/papers/2310.14566">early report</a> and analysis on failure modes of GPT-4V and LLaVA-1.5. Stay tuned on the release of our dataset <a style="color:black" href="/hallusionbench">HallusionBench</a>!</td></tr>
   <tr><td><b>Oct 2023:</b></td><td><a style="color:black" href="/iplan">iPLAN</a> was award as <strong style="color:red">Best Paper Award</strong> by at <b>IROS 2023</b> MRS Workshop!</td></tr>
   <tr><td><b>Sep 2023:</b></td><td><a style="color:black" href="/lancar">LANCAR</a> was submitted to <b>ICRA 2024</b></td></tr>
