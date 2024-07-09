@@ -50,12 +50,16 @@ td, th {
 <col width="110px">
 <!-- <col width="630px"> -->
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
+  <tr><td><b>Jun 2024:</b></td><td><a style="color:black" href="/agl_net">AGL-NET</a> was accepted by <b>IROS 2024</b>!</td></tr>
+  <tr><td><b>Jun 2024:</b></td><td><a style="color:black" href="/lancar">LANCAR</a> was accepted by <b>IROS 2024</b>!</td></tr>
+  <tr><td><b>Jun 2024:</b></td><td> We release an <a style="color:black" href="https://arxiv.org/abs/2406.10900">technical report</a> <a style="color:black" href="/adversary_robot">AUTOHALLUSION</a> is the first automatic benchmark generation approach that harnesses a few principal strategies to create diverse hallucination examples by probing the language modules in LVLMs for context cues. The project webpage is released <a style="color:black" href="https://wuxiyang1996.github.io/adversary-vlm-robotics/">here</a>. </td></tr>
+  <tr><td><b>Apr 2024:</b></td><td> <a style="color:black" href="/adversary_robot">One paper</a> was accepted by <b>VLADR Workshop</b> at <b>CVPR 2024</b>!</td></tr>
+  <tr><td><b>Feb 2024:</b></td><td><a style="color:black" href="/hallusionbench">HallusionBench</a> was accepted by <b>CVPR 2024</b></td></tr>
   <tr><td><b>Feb 2024:</b></td><td> We release an <a style="color:black" href="https://arxiv.org/abs/2402.10340">technical report</a> highlighting the critical issues of robustness and safety associated with integrating large language models (LLMs) and vision-language models (VLMs) into robotics applications. The project webpage is released <a style="color:black" href="https://wuxiyang1996.github.io/adversary-vlm-robotics/">here</a>. </td></tr>
   <tr><td><b>Oct 2023:</b></td><td> We release an <a style="color:black" href="https://huggingface.co/papers/2310.14566">early report</a> and analysis on failure modes of GPT-4V and LLaVA-1.5. Stay tuned on the release of our dataset <a style="color:black" href="/hallusionbench">HallusionBench</a>!</td></tr>
-  <tr><td><b>Oct 2023:</b></td><td><a style="color:black" href="/iplan">iPLAN</a> was award as <strong style="color:red">Best Paper Award</strong> by at <b>IROS 2023</b> MRS Workshop!</td></tr>
-  <tr><td><b>Sep 2023:</b></td><td><a style="color:black" href="/lancar">LANCAR</a> was submitted to <b>ICRA 2024</b></td></tr>
-  <tr><td><b>Aug 2023:</b></td><td><a style="color:black" href="/iplan">iPLAN</a> was accepted to <b>CoRL 2023</b> with <strong style="color:red">Oral Presentation (Accept Rate: 6.6%)</strong> !</td></tr>
-  <tr><td><b>Jul 2023:</b></td><td> <a style="color:black" href="/photometric">One paper</a> was accepted to <b>Digital Signal Processing</b>!</td></tr>
+  <tr><td><b>Oct 2023:</b></td><td><a style="color:black" href="/iplan">iPLAN</a> was award as <strong style="color:red">Best Paper Award</strong> by <b>MRS Workshop</b> at <b>IROS 2023</b>!</td></tr>
+  <tr><td><b>Aug 2023:</b></td><td><a style="color:black" href="/iplan">iPLAN</a> was accepted by <b>CoRL 2023</b> with <strong style="color:red">Oral Presentation (Accept Rate: 6.6%)</strong> !</td></tr>
+  <tr><td><b>Jul 2023:</b></td><td> <a style="color:black" href="/photometric">One paper</a> was accepted by <b>Digital Signal Processing</b>!</td></tr>
   <tr><td><b>Aug 2021:</b></td><td>Started Ph.D. at University of Maryland, College Park.</td></tr>
   <tr><td><b>Aug 2019:</b></td><td>Started M.S. at Georgia Institute of Technology.</td></tr>
 </table>
