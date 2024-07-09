@@ -8,7 +8,7 @@ venue: 'The IEEE / CVF Computer Vision and Pattern Recognition Conference'
 short: 'CVPR 2024'
 paperurl: 'https://arxiv.org/abs/2310.14566'
 teaser: '/images/HallusionBench.png'
-authors: "Tianrui Guan, Fuxiao Liu, <b>Xiyang Wu</b>, Ruiqi Xian, Zongxia Li, Xiaoyu Liu, Xijun Wang, Lichang Chen, Furong Huang, Yaser Yacoob, Dinesh Manocha, Tianyi Zhou"
+authors: "Tianrui Guan*, Fuxiao Liu*, <b>Xiyang Wu</b>, Ruiqi Xian, Zongxia Li, Xiaoyu Liu, Xijun Wang, Lichang Chen, Furong Huang, Yaser Yacoob, Dinesh Manocha, Tianyi Zhou (* indicates equal contributions)"
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 code: "https://github.com/tianyi-lab/HallusionBench"
 redirect_from: 
