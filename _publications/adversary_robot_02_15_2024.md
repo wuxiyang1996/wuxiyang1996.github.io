@@ -7,7 +7,7 @@ date: 2024-06-15
 venue: 'arXiv:2402.10340'
 short: 'Under Review'
 paperurl: 'https://arxiv.org/abs/2402.10340'
-teaser: '/images/adversary_robot.png'
+teaser: '/images/adversary_robot.jpg'
 authors: "<b>Xiyang Wu</b>, Souradip Chakraborty, Ruiqi Xian, Jing Liang, Tianrui Guan, Fuxiao Liu, Brian Sadler, Dinesh Manocha, Amrit Singh Bedi"
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 project: "https://wuxiyang1996.github.io/adversary-vlm-robotics/"
@@ -17,7 +17,7 @@ redirect_from:
 ---
 
 <p style="text-align:center;">
-<img src="/images/adversary_robot.png" width="800">
+<img src="/images/adversary_robot.jpg" width="800">
 </p>
 
 ## Abstract
