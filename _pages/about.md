@@ -50,6 +50,7 @@ td, th {
 <col width="110px">
 <!-- <col width="630px"> -->
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
+  <tr><td><b>Sep 2024:</b></td><td><a style="color:black" href="/autohallusion">AUTOHALLUSION</a> was accepted by <b>EMNLP 2024</b>!</td></tr>
   <tr><td><b>Jun 2024:</b></td><td><a style="color:black" href="/lancar">LANCAR</a> and <a style="color:black" href="/agl_net">AGL-NET</a> were accepted by <b>IROS 2024</b>!</td></tr>
   <tr><td><b>Jun 2024:</b></td><td> We release a <a style="color:black" href="https://arxiv.org/abs/2406.10900">technical report</a>, introducing a novel automatic benchmark generation approach, <a style="color:black" href="/autohallusion">AUTOHALLUSION</a>, which harnesses a few principal strategies to create diverse hallucination examples by probing the language modules in LVLMs for context cues. The project webpage is released <a style="color:black" href="https://wuxiyang1996.github.io/autohallusion_page/">here</a>. </td></tr>
   <tr><td><b>Apr 2024:</b></td><td> <a style="color:black" href="/adversary_robot">One paper</a> was accepted by <b>VLADR Workshop</b> at <b>CVPR 2024</b>!</td></tr>
