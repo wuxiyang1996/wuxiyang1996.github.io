@@ -1,5 +1,5 @@
 ---
-title: "VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations for Synthetic Videos"
+title: "VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations on Synthetic Video Understanding"
 collection: publications
 permalink: /publications/VideoHallu_05-02_2025
 excerpt: "Synthetic video generation has gained significant attention for its realism and broad applications, but 
