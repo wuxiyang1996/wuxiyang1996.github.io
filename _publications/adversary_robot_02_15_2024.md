@@ -1,13 +1,13 @@
 ---
-title: "Highlighting the Safety Concerns of Deploying LLMs/VLMs in Robotics"
+title: "On the Vulnerability of LLM/VLM-Controlled Robotics"
 collection: publications
 permalink: /publications/adversary_robot_02_15_2024
-excerpt: "In this paper, we highlight the critical issues of robustness and safety associated with integrating large language models (LLMs) and vision-language models (VLMs) into robotics applications. Recent works focus on using LLMs and VLMs to improve the performance of robotics tasks, such as manipulation and navigation. Despite these improvements, analyzing the safety of such systems remains underexplored yet extremely critical. LLMs and VLMs are highly susceptible to adversarial inputs, prompting a significant inquiry into the safety of robotic systems. This concern is important because robotics operate in the physical world where erroneous actions can result in severe consequences. This paper explores this issue thoroughly, presenting a mathematical formulation of potential attacks on LLM/VLM-based robotic systems and offering experimental evidence of the safety challenges. Our empirical findings highlight a significant vulnerability: simple modifications to the input can drastically reduce system effectiveness. Specifically, our results demonstrate an average performance deterioration of 19.4% under minor input prompt modifications and a more alarming 29.1% under slight perceptual changes. These findings underscore the urgent need for robust countermeasures to ensure the safe and reliable deployment of advanced LLM/VLM-based robotic systems."
-date: 2024-06-15
-venue: 'arXiv:2402.10340'
-short: 'Under Review'
+excerpt: "In this work, we highlight vulnerabilities in robotic systems integrating large language models (LLMs) and vision-language models (VLMs) due to input modality sensitivities. While LLM/VLM-controlled robots show impressive performance across various tasks, their reliability under slight input variations remains underexplored yet critical. These models are highly sensitive to instruction or perceptual input changes, which can trigger misalignment issues, leading to execution failures with severe real-world consequences. To study this issue, we analyze the misalignment-induced vulnerabilities within LLM/VLM-controlled robotic systems and present a mathematical formulation for failure modes arising from variations in input modalities. We propose empirical perturbation strategies to expose these vulnerabilities and validate their effectiveness through experiments on multiple robot manipulation tasks. Our results show that simple input perturbations reduce task execution success rates by 22.2% and 14.6% in two representative LLM/VLM-controlled robotic systems. These findings underscore the importance of input modality robustness and motivate further research to ensure the safe and reliable deployment of advanced LLM/VLM-controlled robotic systems."
+date: 2025-06-15
+venue: 'The IEEE/RSJ International Conference on Intelligent Robots and Systems'
+short: 'IROS 2025'
 paperurl: 'https://arxiv.org/abs/2402.10340'
-teaser: '/images/adversary_robot.jpg'
+teaser: '../images/adversary_robot.png'
 authors: "<b>Xiyang Wu</b>, Souradip Chakraborty, Ruiqi Xian, Jing Liang, Tianrui Guan, Fuxiao Liu, Brian Sadler, Dinesh Manocha, Amrit Singh Bedi"
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 project: "https://wuxiyang1996.github.io/adversary-vlm-robotics/"
@@ -17,11 +17,11 @@ redirect_from:
 ---
 
 <p style="text-align:center;">
-<img src="/images/adversary_robot.jpg" width="800">
+<img src="/images/adversary_robot.png" width="800">
 </p>
 
 ## Abstract
-<div style="text-align: justify"> In this paper, we highlight the critical issues of robustness and safety associated with integrating large language models (LLMs) and vision-language models (VLMs) into robotics applications. Recent works focus on using LLMs and VLMs to improve the performance of robotics tasks, such as manipulation and navigation. Despite these improvements, analyzing the safety of such systems remains underexplored yet extremely critical. LLMs and VLMs are highly susceptible to adversarial inputs, prompting a significant inquiry into the safety of robotic systems. This concern is important because robotics operate in the physical world where erroneous actions can result in severe consequences. This paper explores this issue thoroughly, presenting a mathematical formulation of potential attacks on LLM/VLM-based robotic systems and offering experimental evidence of the safety challenges. Our empirical findings highlight a significant vulnerability: simple modifications to the input can drastically reduce system effectiveness. Specifically, our results demonstrate an average performance deterioration of 19.4% under minor input prompt modifications and a more alarming 29.1% under slight perceptual changes. These findings underscore the urgent need for robust countermeasures to ensure the safe and reliable deployment of advanced LLM/VLM-based robotic systems.
+<div style="text-align: justify"> In this work, we highlight vulnerabilities in robotic systems integrating large language models (LLMs) and vision-language models (VLMs) due to input modality sensitivities. While LLM/VLM-controlled robots show impressive performance across various tasks, their reliability under slight input variations remains underexplored yet critical. These models are highly sensitive to instruction or perceptual input changes, which can trigger misalignment issues, leading to execution failures with severe real-world consequences. To study this issue, we analyze the misalignment-induced vulnerabilities within LLM/VLM-controlled robotic systems and present a mathematical formulation for failure modes arising from variations in input modalities. We propose empirical perturbation strategies to expose these vulnerabilities and validate their effectiveness through experiments on multiple robot manipulation tasks. Our results show that simple input perturbations reduce task execution success rates by 22.2% and 14.6% in two representative LLM/VLM-controlled robotic systems. These findings underscore the importance of input modality robustness and motivate further research to ensure the safe and reliable deployment of advanced LLM/VLM-controlled robotic systems.
 </div>
 <br>
 
