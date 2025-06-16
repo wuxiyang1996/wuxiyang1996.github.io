@@ -18,7 +18,7 @@ Research Interest
 ======
 - Robotics
 - Reinforcement Learning
-- Large Language Model
+- Multi-Modality
 - Vision Language Model
 
 Education
