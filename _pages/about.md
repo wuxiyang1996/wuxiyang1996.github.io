@@ -16,10 +16,10 @@ Please check list of publications [here](http://wuxiyang1996.github.io/publicati
 
 Research Interest
 ======
-- Reinforcement Learning
-- Autonomous Driving
-- Large Language Model
 - Robotics
+- Reinforcement Learning
+- Large Language Model
+- Vision Language Model
 
 Education
 ======
