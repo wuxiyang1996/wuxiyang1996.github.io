@@ -54,7 +54,7 @@ td, th {
 <col width="110px">
 <!-- <col width="630px"> -->
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
-  <tr><td><b>Jun 2025:</b></td><td> <a style="color:black" href="/adversary_robot">One paper</a> was accepted <b>IROS 2025</b> </td></tr>
+  <tr><td><b>Jun 2025:</b></td><td> <a style="color:black" href="/adversary_robot">One paper</a> was accepted <b>IROS 2025</b>! </td></tr>
   <tr><td><b>May 2025:</b></td><td> We release a <a style="color:black" href="https://arxiv.org/abs/2505.01481">technical report</a>, introducing a novel benchmark for hallucinations in synthetic video understanding over common sense and physics, <a style="color:black" href="/videohallu">VideoHallu</a>, with QA pairs requiring human-level reasoning. The goal of this benchmark is to evaluate and post-train SoTA MLLMs on commonsense/physics data shows its impact on improving model reasoning. The project webpage is released <a style="color:black" href="https://wuxiyang1996.github.io/videohallu_page/">here</a>. </td></tr>
   <tr><td><b>Sep 2024:</b></td><td><a style="color:black" href="/autohallusion">AUTOHALLUSION</a> was accepted by <b>EMNLP 2024</b>!</td></tr>
   <tr><td><b>Jun 2024:</b></td><td><a style="color:black" href="/lancar">LANCAR</a> and <a style="color:black" href="/agl_net">AGL-NET</a> were accepted by <b>IROS 2024</b>!</td></tr>
