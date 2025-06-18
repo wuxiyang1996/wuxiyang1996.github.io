@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Xiyang Wu. I am a Ph.D. student in Electrical and Computer Engineering at [University of Maryland, College Park](https://umd.edu/) and a member of [GAMMA](https://gamma.umd.edu/) group. My research advisor is Prof. [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha). I hold a Master's degree from [Georgia Institute of Technology](https://www.gatech.edu/), where I was working with Prof. [Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/). Before that, I earned my Bachelor's in Engineering from [Tianjin University](https://www.tju.edu.cn/english/index.htm), supervised by Prof. [Xiaodong Zhang](https://scholar.google.com/citations?user=as6X3L0AAAAJ&hl=en).
 
-My research interest lies in using the reasoning ability of neural networks and Large Language Models in robot decision-making and navigation tasks. Specifically, incorporating Large Language Models with reinforcement learning approaches in multi-agent coordination, scene understanding, and opponents' intention inference when navigating and collaborating under complex and heterogeneous environments.
+My research explores multi-modal foundation models, emphasizing hallucination detection, mitigation, and their physical reasoning capabilities under varied, real-world conditions. In parallel, I investigate deploying neural networks and large language models for robotic decision-making and navigation, aiming to enhance robots’ situational awareness, robustly interpret human behaviors and intentions, and adapt their actions accordingly across complex, dynamic, and collaborative environments.
 
 Please check list of publications [here](http://wuxiyang1996.github.io/publications/).
 
