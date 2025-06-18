@@ -14,6 +14,10 @@ My research explores multi-modal foundation models, emphasizing hallucination de
 
 Please check list of publications [here](http://wuxiyang1996.github.io/publications/).
 
+<b>I am actively seeking internship opportunities for Fall 2025, Spring 2026, or Summer 2026. If you're interested in my research, please feel free to reach out.</b>
+
+<b>I also welcome collaboration on potential research projects. Please feel free to contact me if you'd like to connect or discuss ideas.</b>
+
 Research Interest
 ======
 - Robotics
