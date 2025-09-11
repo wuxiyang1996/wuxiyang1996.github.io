@@ -14,13 +14,7 @@ My research focuses on **multi-modal foundation models**, with an emphasis on ha
 
 Please check list of publications [here](http://wuxiyang1996.github.io/publications/).
 
-Opportunities & Collaboration
-======
-
-**I am currently on the job market** and actively seeking **internships and full-time opportunities**. If my research aligns with your interests, I would be glad to connect.  
-
-I also welcome collaborations on new or ongoing research projects. Please feel free to reach out if you’d like to discuss potential ideas.  
-
+**I am currently on the job market and actively seeking internships and full-time opportunities. If my research aligns with your interests, I would be glad to connect.**
 
 Research Interest
 ======
