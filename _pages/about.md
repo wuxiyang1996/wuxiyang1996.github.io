@@ -8,19 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-My name is Xiyang Wu. I am a Ph.D. student in Electrical and Computer Engineering at [University of Maryland, College Park](https://umd.edu/) and a member of [GAMMA](https://gamma.umd.edu/) group. My research advisor is Prof. [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha). I hold a Master's degree from [Georgia Institute of Technology](https://www.gatech.edu/), where I was working with Prof. [Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/). Before that, I earned my Bachelor's in Engineering from [Tianjin University](https://www.tju.edu.cn/english/index.htm), supervised by Prof. [Xiaodong Zhang](https://scholar.google.com/citations?user=as6X3L0AAAAJ&hl=en).
+My name is Xiyang Wu. I am a Ph.D. candidate in Electrical and Computer Engineering at [University of Maryland, College Park](https://umd.edu/) and a member of [GAMMA](https://gamma.umd.edu/) group. My research advisor is Prof. [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha). I hold a Master's degree from [Georgia Institute of Technology](https://www.gatech.edu/), where I was working with Prof. [Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/). Before that, I earned my Bachelor's in Engineering from [Tianjin University](https://www.tju.edu.cn/english/index.htm), supervised by Prof. [Xiaodong Zhang](https://scholar.google.com/citations?user=as6X3L0AAAAJ&hl=en).
 
-My research explores multi-modal foundation models, emphasizing hallucination detection, mitigation, and their physical reasoning capabilities under varied, real-world conditions. In parallel, I investigate deploying neural networks and large language models for robotic decision-making and navigation, aiming to enhance robots’ situational awareness, robustly interpret human behaviors and intentions, and adapt their actions accordingly across complex, dynamic, and collaborative environments.
+My research focuses on **multi-modal foundation models**, with an emphasis on hallucination detection, mitigation, and physical reasoning under complex, real-world conditions. In parallel, I explore the integration of neural networks and large language models into **robotic decision-making and navigation**, aiming to improve robots’ situational awareness, robustly interpret human behaviors and intentions, and adapt their actions in dynamic, collaborative environments. 
 
 Please check list of publications [here](http://wuxiyang1996.github.io/publications/).
 
-<b>I am actively seeking internship opportunities for Fall 2025, Spring 2026, or Summer 2026. If you're interested in my research, please feel free to reach out.</b>
+Opportunities & Collaboration
+======
 
-<b>I also welcome collaboration on potential research projects. Please feel free to contact me if you'd like to connect or discuss ideas.</b>
+**I am currently on the job market** and actively seeking **internships and full-time opportunities**. If my research aligns with your interests, I would be glad to connect.  
+
+I also welcome collaborations on new or ongoing research projects. Please feel free to reach out if you’d like to discuss potential ideas.  
+
 
 Research Interest
 ======
 - Robotics
+- Embodied AI
 - Reinforcement Learning
 - Multi-Modality
 - Vision Language Model
