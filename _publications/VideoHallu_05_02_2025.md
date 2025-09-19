@@ -17,8 +17,8 @@ learning on datasets combining video QA with counterintuitive commonsense and ph
 synthetic videos, improves MLLMs' abnormality detection and critical thinking, demonstrating the value of 
 targeted training for improving their understanding of commonsense and physical laws."
 date: 2025-05-02
-venue: 'arXiv'
-short: 'arXiv'
+venue: 'The Thirty-Ninth Annual Conference on Neural Information Processing Systems'
+short: 'NeurIPS 2025'
 paperurl: 'https://www.arxiv.org/abs/2505.01481'
 teaser: '/images/VideoHallu.png'
 authors: "Zongxia Li*, <b>Xiyang Wu*</b>, Yubin Qin, Guangyao Shi, Hongyang Du, Dinesh Manocha, Tianyi Zhou, Jordan Lee Boyd-Graber (* indicates equal contributions)"
