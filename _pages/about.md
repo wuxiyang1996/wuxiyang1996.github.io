@@ -57,7 +57,7 @@ td, th {
       <td><b>Nov 2025:</b></td>
       <td>
         We release a <a style="color:black" href="https://arxiv.org/abs/2511.18373">technical report</a> introducing 
-        <a style="color:black" href="/mass">MASS-Bench</a>, a physics-focused video benchmark, and <a style="color:black" href="/mass">MASS</a>, a model-agnostic 
+        <a style="color:black" href="/mass_paper">MASS-Bench</a>, a physics-focused video benchmark, and <a style="color:black" href="/mass_paper">MASS</a>, a model-agnostic 
         method that injects 3D motion and spatial–temporal cues into VLMs, yielding substantial gains and approaching 
         closed-source SoTA performance on physics reasoning.
       </td>
