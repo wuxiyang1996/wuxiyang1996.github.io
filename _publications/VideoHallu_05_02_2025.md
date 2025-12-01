@@ -21,7 +21,7 @@ venue: 'The Thirty-Ninth Annual Conference on Neural Information Processing Syst
 short: 'NeurIPS 2025'
 paperurl: 'https://www.arxiv.org/abs/2505.01481'
 teaser: '/images/VideoHallu.png'
-authors: "Zongxia Li*, <b>Xiyang Wu*</b>, Yubin Qin, Guangyao Shi, Hongyang Du, Dinesh Manocha, Tianyi Zhou, Jordan Lee Boyd-Graber (* indicates equal contributions)"
+authors: "<b>Xiyang Wu*</b>, Zongxia Li*, Yubin Qin, Guangyao Shi, Hongyang Du, Dinesh Manocha, Tianyi Zhou, Jordan Lee Boyd-Graber (* indicates equal contributions)"
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 project: "https://wuxiyang1996.github.io/videohallu_page/"
 code: "https://github.com/zli12321/VideoHallu"
