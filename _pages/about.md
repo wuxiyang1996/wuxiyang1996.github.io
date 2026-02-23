@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Xiyang Wu. I am a Ph.D. candidate in Electrical and Computer Engineering at [University of Maryland, College Park](https://umd.edu/) and a member of [GAMMA](https://gamma.umd.edu/) group. My research advisor is Prof. [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha). I hold a Master's degree from [Georgia Institute of Technology](https://www.gatech.edu/), where I was working with Prof. [Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/). Before that, I earned my Bachelor's in Engineering from [Tianjin University](https://www.tju.edu.cn/english/index.htm), supervised by Prof. [Xiaodong Zhang](https://scholar.google.com/citations?user=as6X3L0AAAAJ&hl=en).
 
-My research focuses on **multi-modal foundation models**, with an emphasis on hallucination detection, mitigation, and physical reasoning under complex, real-world conditions. In parallel, I explore the integration of neural networks and large language models into **robotic decision-making and navigation**, aiming to improve robots’ situational awareness, robustly interpret human behaviors and intentions, and adapt their actions in dynamic, collaborative environments. 
+My research focuses on **multi-modal foundation models**, with an emphasis on hallucination detection, mitigation, and physical reasoning under complex, real-world conditions. In parallel, I am interested in **agentic decision-making** using memory for long multi-modal context understanding and long-horizon decision-making, and explore the integration of neural networks and large language models into **robotic decision-making and navigation**, aiming to improve robots’ situational awareness, robustly interpret human behaviors and intentions, and adapt their actions in dynamic, collaborative environments. 
 
 Please check list of publications [here](http://wuxiyang1996.github.io/publications/).
 
@@ -18,10 +18,10 @@ Please check list of publications [here](http://wuxiyang1996.github.io/publicati
 
 Research Interest
 ======
-- Robotics
+- Agentic AI
 - Embodied AI
-- Reinforcement Learning
 - Multi-Modality
+- Reinforcement Learning
 - Vision Language Model
 
 Education
@@ -53,6 +53,14 @@ td, th {
 <col width="110px">
 <!-- <col width="630px"> -->
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
+    <tr>
+      <td><b>Feb 2026:</b></td>
+      <td>
+        Two papers (1 Main + 1 Finding) accepted by <b>CVPR 2026</b>. 
+        <a style="color:black" href="https://arxiv.org/pdf/2511.15700">First Frame Is the Place to Go for Video Content Customization</a> proposes first-frame conditioning for efficient video customization; 
+        <a style="color:black" href="/mass_paper">MASS</a> [Finding] introduces a physics-focused video benchmark and model-agnostic method that injects 3D motion and spatiotemporal cues into VLMs for stronger physics reasoning. Details will come shortly.
+      </td>
+    </tr>
     <tr>
       <td><b>Nov 2025:</b></td>
       <td>
