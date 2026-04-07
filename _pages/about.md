@@ -54,6 +54,14 @@ td, th {
 <!-- <col width="630px"> -->
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
     <tr>
+      <td><b>Apr 2026:</b></td>
+      <td>
+        We release a <a style="color:black" href="/cosplay_paper">technical report</a> introducing 
+        <a style="color:black" href="/cosplay_paper">COS-PLAY</a>, a co-evolution framework where an LLM decision agent and a skill bank agent jointly improve through GRPO, achieving over 25.1% average reward improvement across six game environments with an 8B model against frontier LLM baselines. 
+        The project webpage is released <a style="color:black" href="https://wuxiyang1996.github.io/COSPLAY_page/">here</a>.
+      </td>
+    </tr>
+    <tr>
       <td><b>Mar 2026:</b></td>
       <td>
         We release a <a style="color:black" href="https://arxiv.org/abs/2603.24935">technical report</a> introducing 
