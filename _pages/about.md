@@ -54,6 +54,15 @@ td, th {
 <!-- <col width="630px"> -->
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
     <tr>
+      <td><b>Mar 2026:</b></td>
+      <td>
+        We release a <a style="color:black" href="https://arxiv.org/abs/2603.24935">technical report</a> introducing 
+        <a style="color:black" href="/saber_paper">SABER</a>, an agentic black-box attack framework for red-teaming VLA-controlled robots. 
+        SABER uses a GRPO-trained ReAct agent to generate stealthy instruction perturbations, reducing task success by 20.6% across six state-of-the-art VLA models while requiring 54.7% fewer edits than GPT-based baselines. 
+        The project webpage is released <a style="color:black" href="https://wuxiyang1996.github.io/SABER_page/">here</a>.
+      </td>
+    </tr>
+    <tr>
       <td><b>Feb 2026:</b></td>
       <td>
         Two papers (1 Main + 1 Finding) accepted by <b>CVPR 2026</b>. 
