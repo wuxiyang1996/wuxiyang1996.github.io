@@ -96,6 +96,7 @@ td, th {
       </td>
     </tr>
   <tr><td><b>Sep 2025:</b></td><td> <a style="color:black" href="/videohallu">VideoHallu</a> was accepted by <b>NeurIPS 2025</b>! </td></tr>
+  <tr><td><b>Aug 2025:</b></td><td>Advanced to Ph.D. candidate at University of Maryland, College Park.</td></tr>
   <tr><td><b>Jun 2025:</b></td><td> <a style="color:black" href="/adversary_robot">One paper</a> was accepted by <b>IROS 2025</b>! </td></tr>
   <tr><td><b>May 2025:</b></td><td> We release a <a style="color:black" href="https://arxiv.org/abs/2505.01481">technical report</a>, introducing a novel benchmark for hallucinations in synthetic video understanding over common sense and physics, <a style="color:black" href="/videohallu">VideoHallu</a>, with QA pairs requiring human-level reasoning. The goal of this benchmark is to evaluate and post-train SoTA MLLMs on commonsense/physics data shows its impact on improving model reasoning. The project webpage is released <a style="color:black" href="https://wuxiyang1996.github.io/videohallu_page/">here</a>. </td></tr>
   <tr><td><b>Sep 2024:</b></td><td><a style="color:black" href="/autohallusion">AUTOHALLUSION</a> was accepted by <b>EMNLP 2024</b>!</td></tr>
