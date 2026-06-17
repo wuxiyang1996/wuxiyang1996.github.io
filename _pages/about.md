@@ -41,8 +41,8 @@ News
 } */
 td, th {
     border: none!important;
-    padding-top: 0px;
-    padding-bottom: 0px;
+    padding-top: 8px;
+    padding-bottom: 12px;
   /* padding-left: 30px;
   padding-right: 40px; */
 }
