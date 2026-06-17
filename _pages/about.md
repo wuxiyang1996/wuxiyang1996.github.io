@@ -54,6 +54,14 @@ td, th {
 <!-- <col width="630px"> -->
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
     <tr>
+      <td><b>Jun 2026:</b></td>
+      <td>
+        Two papers accepted by <b>IROS 2026</b>:
+        <a style="color:black" href="/saber_paper">SABER</a> red-teams VLA-controlled robots via stealthy instruction perturbations;
+        <a style="color:black" href="https://arxiv.org/pdf/2409.18300">FALCON</a> introduces object-centric self-supervised pretraining for UAV action recognition. See you in Pittsburgh!
+      </td>
+    </tr>
+    <tr>
       <td><b>Apr 2026:</b></td>
       <td>
         We release a <a style="color:black" href="https://arxiv.org/abs/2604.20987">technical report</a> introducing 
