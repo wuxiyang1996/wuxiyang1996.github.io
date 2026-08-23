@@ -54,6 +54,14 @@ td, th {
 <!-- <col width="630px"> -->
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
     <tr>
+      <td><b>Aug 2026:</b></td>
+      <td>
+        Two papers accepted by <b>EMNLP 2026</b>:
+        <a style="color:black" href="https://arxiv.org/abs/2603.09206">MM-Zero</a> enables vision-language models to self-evolve from zero human-annotated data through multi-role reinforcement learning;
+        <a style="color:black" href="https://arxiv.org/abs/2604.05333">Graph-of-Skills</a> introduces dependency-aware structural retrieval for scaling agents to massive skill libraries.
+      </td>
+    </tr>
+    <tr>
       <td><b>Jun 2026:</b></td>
       <td>
         Two papers accepted by <b>IROS 2026</b>:
