@@ -1,135 +1,107 @@
 ---
+layout: about
+title: About
 permalink: /
-title: "Biography"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+subtitle: "I build **self-improving AI agents** that **understand** the physical world, **learn** reusable skills from experience, and **act** reliably in embodied environments."
+
+profile:
+  align: right
+  image: prof_pic.png
+  image_circular: true
+  more_info: >
+    <p>University of Maryland, College Park</p>
+    <p>College Park, MD</p>
+
+selected_papers: true
+social: true
+
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 15
+
+latest_posts:
+  enabled: false
 ---
 
-My name is Xiyang Wu. I am a Ph.D. candidate in Electrical and Computer Engineering at [University of Maryland, College Park](https://umd.edu/) and a member of [GAMMA](https://gamma.umd.edu/) group. My research advisor is Prof. [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha). I hold a Master's degree from [Georgia Institute of Technology](https://www.gatech.edu/), where I was working with Prof. [Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/). Before that, I earned my Bachelor's in Engineering from [Tianjin University](https://www.tju.edu.cn/english/index.htm), supervised by Prof. [Xiaodong Zhang](https://scholar.google.com/citations?user=as6X3L0AAAAJ&hl=en).
+<link rel="stylesheet" href="{{ '/assets/css/site-custom.css' | relative_url }}">
 
-My research focuses on **multi-modal foundation models**, with an emphasis on hallucination detection, mitigation, and physical reasoning under complex, real-world conditions. In parallel, I am interested in **agentic decision-making** using memory for long multi-modal context understanding and long-horizon decision-making, and explore the integration of neural networks and large language models into **robotic decision-making and navigation**, aiming to improve robots’ situational awareness, robustly interpret human behaviors and intentions, and adapt their actions in dynamic, collaborative environments. 
+Hi! I'm **Xiyang Wu**, a final-year Ph.D. student in Electrical and Computer Engineering at the **[University of Maryland, College Park](https://umd.edu/)**, advised by Prof. [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha).
 
-Please check list of publications [here](http://wuxiyang1996.github.io/publications/).
+My research lies at the intersection of **reinforcement learning, post-training, multimodal reasoning, and embodied AI**. Broadly, I'm interested in building intelligent, reliable, and self-improving agents that can understand the world, learn from experience, and act effectively in complex environments.
 
-**I am currently on the job market and actively seeking internships and full-time opportunities. If my research aligns with your interests, I would be glad to connect.**
+More recently, I've been focusing on **self-improving embodied agents and robotic systems**. I'm exploring how multimodal reasoning, world models, and reinforcement learning can work together to help agents acquire reusable skills and become more autonomous and adaptive through physical interaction.
 
-Research Interest
-======
-- Agentic AI
-- Embodied AI
-- Multi-Modality
-- Reinforcement Learning
-- Vision Language Model
-
-Education
-======
- - Ph.D. in Electrical and Computer Engineering, University of Maryland, College Park, 2021 - 2026 (Expected)
- - M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, 2019 - 2021
- - B.Eng. in Electrical Engineering (Honors Class), Tianjin University, 2015 - 2019
-
-News
-======
-
-<style>
-/* table {
-    border-collapse: collapse!important;
-    font-size: 18px!important;
-    border: none!important;
-} */
-td, th {
-    border: none!important;
-    padding-top: 8px;
-    padding-bottom: 12px;
-  /* padding-left: 30px;
-  padding-right: 40px; */
-}
-
-</style>
-<div style="height:500px;overflow:auto;">
-<table style="border-collapse: collapse;font-size: 18px;border: none;">
-<col width="110px">
-<!-- <col width="630px"> -->
-  <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
-    <tr>
-      <td><b>Aug 2026:</b></td>
-      <td>
-        Two papers accepted by <b>EMNLP 2026</b>:
-        <a style="color:black" href="https://arxiv.org/abs/2603.09206">MM-Zero</a> enables vision-language models to self-evolve from zero human-annotated data through multi-role reinforcement learning;
-        <a style="color:black" href="https://arxiv.org/abs/2604.05333">Graph-of-Skills</a> introduces dependency-aware structural retrieval for scaling agents to massive skill libraries.
-      </td>
-    </tr>
-    <tr>
-      <td><b>Jun 2026:</b></td>
-      <td>
-        Two papers accepted by <b>IROS 2026</b>:
-        <a style="color:black" href="/saber_paper">SABER</a> red-teams VLA-controlled robots via stealthy instruction perturbations;
-        <a style="color:black" href="https://arxiv.org/pdf/2409.18300">FALCON</a> introduces object-centric self-supervised pretraining for UAV action recognition. See you in Pittsburgh!
-      </td>
-    </tr>
-    <tr>
-      <td><b>Apr 2026:</b></td>
-      <td>
-        We release a <a style="color:black" href="https://arxiv.org/abs/2604.20987">technical report</a> introducing 
-        <a style="color:black" href="/cosplay_paper">COS-PLAY</a>, a co-evolution framework for long-horizon tasks where an LLM decision agent and a skill bank agent jointly improve through GRPO, achieving over 25.1% average reward improvement across six game environments with an 8B model against frontier LLM baselines. 
-        The project webpage is released <a style="color:black" href="https://wuxiyang1996.github.io/COSPLAY_page/">here</a>.
-      </td>
-    </tr>
-    <tr>
-      <td><b>Mar 2026:</b></td>
-      <td>
-        We release a <a style="color:black" href="https://arxiv.org/abs/2603.24935">technical report</a> introducing 
-        <a style="color:black" href="/saber_paper">SABER</a>, an agentic black-box attack framework for red-teaming VLA-controlled robots. 
-        SABER uses a GRPO-trained ReAct agent to generate stealthy instruction perturbations, reducing task success by 20.6% across six state-of-the-art VLA models while requiring 54.7% fewer edits than GPT-based baselines. 
-        The project webpage is released <a style="color:black" href="https://wuxiyang1996.github.io/SABER_page/">here</a>.
-      </td>
-    </tr>
-    <tr>
-      <td><b>Feb 2026:</b></td>
-      <td>
-        Two papers (1 Main + 1 Finding) accepted by <b>CVPR 2026</b>. 
-        <a style="color:black" href="https://arxiv.org/pdf/2511.15700">First Frame Is the Place to Go for Video Content Customization</a> proposes first-frame conditioning for efficient video customization; 
-        <a style="color:black" href="/mass_paper">MASS</a> [Finding] introduces a physics-focused video benchmark and model-agnostic method that injects 3D motion and spatiotemporal cues into VLMs for stronger physics reasoning. Details will come shortly.
-      </td>
-    </tr>
-    <tr>
-      <td><b>Nov 2025:</b></td>
-      <td>
-        We release a <a style="color:black" href="https://arxiv.org/abs/2511.18373">technical report</a> introducing 
-        <a style="color:black" href="/mass_paper">MASS-Bench</a>, a physics-focused video benchmark, and <a style="color:black" href="/mass_paper">MASS</a>, a model-agnostic 
-        method that injects 3D motion and spatial–temporal cues into VLMs, yielding substantial gains and approaching 
-        closed-source SoTA performance on physics reasoning.
-      </td>
-    </tr>
-  <tr><td><b>Sep 2025:</b></td><td> <a style="color:black" href="/videohallu">VideoHallu</a> was accepted by <b>NeurIPS 2025</b>! </td></tr>
-  <tr><td><b>Aug 2025:</b></td><td>Advanced to Ph.D. candidate at University of Maryland, College Park.</td></tr>
-  <tr><td><b>Jun 2025:</b></td><td> <a style="color:black" href="/adversary_robot">One paper</a> was accepted by <b>IROS 2025</b>! </td></tr>
-  <tr><td><b>May 2025:</b></td><td> We release a <a style="color:black" href="https://arxiv.org/abs/2505.01481">technical report</a>, introducing a novel benchmark for hallucinations in synthetic video understanding over common sense and physics, <a style="color:black" href="/videohallu">VideoHallu</a>, with QA pairs requiring human-level reasoning. The goal of this benchmark is to evaluate and post-train SoTA MLLMs on commonsense/physics data shows its impact on improving model reasoning. The project webpage is released <a style="color:black" href="https://wuxiyang1996.github.io/videohallu_page/">here</a>. </td></tr>
-  <tr><td><b>Sep 2024:</b></td><td><a style="color:black" href="/autohallusion">AUTOHALLUSION</a> was accepted by <b>EMNLP 2024</b>!</td></tr>
-  <tr><td><b>Jun 2024:</b></td><td><a style="color:black" href="/lancar">LANCAR</a> and <a style="color:black" href="/agl_net">AGL-NET</a> were accepted by <b>IROS 2024</b>!</td></tr>
-  <tr><td><b>Jun 2024:</b></td><td> We release a <a style="color:black" href="https://arxiv.org/abs/2406.10900">technical report</a>, introducing a novel automatic benchmark generation approach, <a style="color:black" href="/autohallusion">AUTOHALLUSION</a>, which harnesses a few principal strategies to create diverse hallucination examples by probing the language modules in LVLMs for context cues. The project webpage is released <a style="color:black" href="https://wuxiyang1996.github.io/autohallusion_page/">here</a>. </td></tr>
-  <tr><td><b>Apr 2024:</b></td><td> <a style="color:black" href="/adversary_robot">One paper</a> was accepted by <b>VLADR Workshop</b> at <b>CVPR 2024</b>!</td></tr>
-  <tr><td><b>Feb 2024:</b></td><td><a style="color:black" href="/hallusionbench">HallusionBench</a> was accepted by <b>CVPR 2024</b>! The data, evaluation and code are available on <a style="color:black" href="https://github.com/tianyi-lab/HallusionBench">GitHub</a>.</td></tr>
-  <tr><td><b>Feb 2024:</b></td><td> We release a <a style="color:black" href="https://arxiv.org/abs/2402.10340">technical report</a> highlighting the critical issues of robustness and safety associated with integrating large language models (LLMs) and vision-language models (VLMs) into robotics applications. The project webpage is released <a style="color:black" href="https://wuxiyang1996.github.io/adversary-vlm-robotics/">here</a>. </td></tr>
-  <tr><td><b>Oct 2023:</b></td><td> We release an <a style="color:black" href="https://huggingface.co/papers/2310.14566">early report</a> and analysis on failure modes of GPT-4V and LLaVA-1.5. Stay tuned on the release of our dataset <a style="color:black" href="/hallusionbench">HallusionBench</a>!</td></tr>
-  <tr><td><b>Oct 2023:</b></td><td><a style="color:black" href="/iplan">iPLAN</a> was award as <strong style="color:red">Best Paper Award</strong> by <b>MRS Workshop</b> at <b>IROS 2023</b>!</td></tr>
-  <tr><td><b>Aug 2023:</b></td><td><a style="color:black" href="/iplan">iPLAN</a> was accepted by <b>CoRL 2023</b> with <strong style="color:red">Oral Presentation (Accept Rate: 6.6%)</strong> !</td></tr>
-  <tr><td><b>Jul 2023:</b></td><td> <a style="color:black" href="/photometric">One paper</a> was accepted by <b>Digital Signal Processing</b>!</td></tr>
-  <tr><td><b>Aug 2021:</b></td><td>Started Ph.D. at University of Maryland, College Park.</td></tr>
-  <tr><td><b>Aug 2019:</b></td><td>Started M.S. at Georgia Institute of Technology.</td></tr>
-</table>
+<div class="about-tldr" markdown="1">
+**TL;DR** {{ page.subtitle }}
 </div>
 
+<!-- research -->
 
-<br>
+<section class="research-interests" aria-labelledby="research-interests" markdown="1">
 
+## Research Interests
 
-Selected Publications<a id="pub"></a>
-======
+My research revolves around three interconnected questions:
 
+<div class="research-grid" markdown="1">
 
-{% include base_path %}
+<div class="research-block" markdown="1">
 
-{% include archive-compact.html %}
+### Understanding
+
+**How can agents understand physical environments, human intentions, and multimodal observations?**
+
+My work focuses on physical and social reasoning, multimodal grounding, world model evaluation, long-horizon video understanding, and synthetic data curation.
+
+<div class="key-works" markdown="1">
+
+**Key works**
+
+- [HallusionBench](https://arxiv.org/abs/2310.14566)
+- [VideoHallu](https://wuxiyang1996.github.io/videohallu_page/)
+- [MASS](https://arxiv.org/abs/2511.18373)
+- [AUTOHALLUSION](https://wuxiyang1996.github.io/autohallusion_page/)
+
+</div>
+</div>
+
+<div class="research-block" markdown="1">
+
+### Learning
+
+**How can agents learn from experience and continuously improve through post-training and long-horizon interactions?**
+
+I study reinforcement learning, skill discovery, and self-improvement, with a focus on enabling agents to acquire reusable skills, learn from feedback, and solve increasingly complex tasks.
+
+<div class="key-works" markdown="1">
+
+**Key works**
+
+- [COS-PLAY](https://wuxiyang1996.github.io/COSPLAY_page/)
+- [ASSEMBLE](https://arxiv.org/abs/2609.32466)
+- [iPLAN](https://arxiv.org/abs/2306.06236)
+
+</div>
+</div>
+
+<div class="research-block" markdown="1">
+
+### Acting
+
+**How can agents turn understanding and learning into robust decisions and actions in the physical world?**
+
+My work investigates robot planning, embodied decision-making, and VLA safety and robustness, with an emphasis on agents that adapt through physical interactions.
+
+<div class="key-works" markdown="1">
+
+**Key works**
+
+- [LANCAR](https://raaslab.org/projects/LLM_Context_Estimation/)
+- [LLM/VLM Robotics](https://wuxiyang1996.github.io/adversary-vlm-robotics/)
+- [SABER](https://wuxiyang1996.github.io/SABER_page/)
+
+</div>
+</div>
+</div>
+</section>

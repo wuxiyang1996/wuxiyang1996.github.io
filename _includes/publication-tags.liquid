@@ -1,0 +1,12 @@
+{% assign work_tags = site.data.publication_tags[entry.key] %}
+{% assign primary_category = site.data.publication_categories[entry.key] %}
+{% if work_tags %}
+  <ul class="work-tags" aria-label="Research keywords">
+    {% if primary_category %}
+      <li class="primary-category" aria-label="Primary category: {{ primary_category | escape }}">{{ primary_category }}</li>
+    {% endif %}
+    {% for tag in work_tags %}
+      <li>{{ tag | escape }}</li>
+    {% endfor %}
+  </ul>
+{% endif %}

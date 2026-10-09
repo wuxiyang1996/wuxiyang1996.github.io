@@ -1,0 +1,76 @@
+---
+---
+{% assign paper_url = entry.pdf %}
+{% assign paper_label = 'Paper' %}
+{% if entry.pdf contains 'arxiv.org/' %}
+  {% assign paper_url = entry.pdf | replace: '/pdf/', '/abs/' | remove: '.pdf' %}
+  {% assign paper_label = 'arXiv' %}
+{% elsif entry.html %}
+  {% assign paper_url = entry.html %}
+{% elsif entry.doi and paper_url == blank %}
+  {% assign paper_url = entry.doi | prepend: 'https://doi.org/' %}
+{% endif %}
+<div id="{{ entry.key }}" class="publication-citation">
+  <p class="citation-title">
+    {{ entry.title }}
+    {% if paper_url -%}
+      <a class="paper-link" href="{{ paper_url }}">[{{ paper_label }}]</a>
+    {%- endif %}
+  </p>
+  <p class="citation-authors">
+    {%- for author in entry.author_array -%}
+      {%- assign clean_last = author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
+      {%- assign author_last = author.last | regex_replace: '([*∗†‡§¶‖&^]+)', '<sup>\1</sup>' -%}
+      {%- unless forloop.first %}, {% endunless -%}
+      {%- if site.scholar.last_name contains clean_last and site.scholar.first_name contains author.first -%}
+        <strong>
+          {{- author.first }}
+          {{ author_last -}}
+        </strong>
+      {%- else -%}
+        {{ author.first }}
+        {{ author_last }}
+      {%- endif -%}
+    {%- endfor -%}
+  </p>
+  <p class="citation-venue">
+    {{ entry.abbr | default: entry.year }}
+    {% if entry.presentation %}
+      {% if entry.presentation_highlight == 'true' %}
+        <strong class="publication-highlight"
+          ><em>{{ entry.presentation }}</em></strong
+        >
+      {% else %}
+        &middot; <span class="publication-presentation">{{ entry.presentation }}</span>
+      {% endif %}
+    {% endif %}
+  </p>
+  {% capture resource_links %}
+    {% if entry.website and entry.website != paper_url %}
+      <a href="{{ entry.website }}">[{% if entry.website contains 'github.com/' %}GitHub{% else %}Website{% endif %}]</a>
+    {% endif %}
+    {% if entry.code and entry.code != entry.website %}
+      <a href="{{ entry.code }}">[{% if entry.code contains 'github.com/' %}GitHub{% else %}Code{% endif %}]</a>
+    {% endif %}
+    {% for resource in site.data.publication_links[entry.key] %}
+      <a href="{{ resource.url }}">[{{ resource.label }}]</a>
+    {% endfor %}
+    {% if entry.pdf and entry.pdf != paper_url %}
+      {% unless entry.pdf contains 'arxiv.org/' %}
+        <a href="{{ entry.pdf }}">[PDF]</a>
+      {% endunless %}
+    {% endif %}
+    {% if entry.html and entry.html != paper_url and entry.html != entry.website %}
+      <a href="{{ entry.html }}">[HTML]</a>
+    {% endif %}
+    {% assign doi_url = entry.doi | prepend: 'https://doi.org/' %}
+    {% if entry.doi and doi_url != paper_url %}
+      <a href="{{ doi_url }}">[DOI]</a>
+    {% endif %}
+  {% endcapture %}
+  {% assign resource_links = resource_links | strip %}
+  {% if resource_links != blank %}
+    <div class="citation-resources" aria-label="Paper resources">{{ resource_links }}</div>
+  {% endif %}
+  {% include publication-tags.liquid %}
+</div>

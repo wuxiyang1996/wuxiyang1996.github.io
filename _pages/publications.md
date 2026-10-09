@@ -1,30 +1,17 @@
 ---
-layout: archive
-title: "Selected Publications"
+layout: page
 permalink: /publications/
-author_profile: true
-# redirect_to: 
-#   - /#pub
+title: Publications
+nav: true
+nav_order: 2
 ---
 
-<style>
-td, th {
-    border: none!important;
-    padding-top: 0px;
-    padding-bottom: 0px;
-  /* padding-left: 30px;
-  padding-right: 40px; */
-}
-</style>
+<link rel="stylesheet" href="{{ '/assets/css/site-custom.css' | relative_url }}">
 
-{% include base_path %}
+Preprints and an indexed list are also on my [Google Scholar](https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}) page.
 
-{% include archive-compact.html %}
+<div class="publications publications-index">
 
-Other Publications
-======
+{% bibliography --template publication-list %}
 
-{% include archive-compact-other.html %}
-
-
-You can also find the articles on my <a href="{{ site.author.googlescholar }}">Google Scholar</a> profile. 
+</div>

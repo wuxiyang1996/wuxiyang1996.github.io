@@ -1,0 +1,17 @@
+{% capture entrytype %}
+  <span class="publication-venue">{{ entry.abbr | default: entry.year }}</span>
+  {% if entry.presentation %}
+    {% if entry.presentation_highlight == 'true' %}
+      <strong class="publication-highlight"><em>{{ entry.presentation }}</em></strong>
+    {% else %}
+      &middot; <span class="publication-presentation">{{ entry.presentation }}</span>
+    {% endif %}
+  {% endif %}
+  {% if entry.additional_info %}
+    {{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}
+  {% endif %}
+{% endcapture %}
+{% assign entryyear = '' %}
+{% assign entrymonth = '' %}
+
+{% include publication-tags.liquid %}
