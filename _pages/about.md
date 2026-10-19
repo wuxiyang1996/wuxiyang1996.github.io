@@ -80,7 +80,7 @@ I study reinforcement learning, skill discovery, and self-improvement, with a fo
 
 - [COS-PLAY](https://wuxiyang1996.github.io/COSPLAY_page/)
 - [BELIEFWEAVER](https://wuxiyang1996.github.io/beliefweaver_page/)
-- [ASSEMBLE](https://arxiv.org/abs/2609.32466)
+- [ASSEMBLE](https://wuxiyang1996.github.io/assemble_page/)
 - [iPLAN](https://arxiv.org/abs/2306.06236)
 
 </div>
