@@ -46,7 +46,7 @@ jobs:
   comments-integration-tests:
     # Upstream contracts forbid local layouts; personal sites may override them.
     if: github.repository == 'al-org-dev/al-folio'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04 # ubuntu-26.04 has no build of the pinned Ruby
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
@@ -103,7 +103,7 @@ jobs:
 
   site-integration-tests:
     if: github.repository != 'al-org-dev/al-folio'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04 # ubuntu-26.04 has no build of the pinned Ruby
     steps:
       - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
